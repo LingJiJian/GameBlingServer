@@ -1,0 +1,777 @@
+2018-04-07 15:04:35 pid:5712 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:04:39 pid:5712 Workerman[start.php] stopping ...
+2018-04-07 15:04:39 pid:5712 Workerman[start.php] has been stopped
+2018-04-07 15:07:03 pid:5800 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:07:11 pid:5800 Workerman[start.php] stopping ...
+2018-04-07 15:07:11 pid:5800 Workerman[start.php] has been stopped
+2018-04-07 15:10:04 pid:5939 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:10:12 pid:5939 Workerman[start.php] stopping ...
+2018-04-07 15:10:12 pid:5939 Workerman[start.php] has been stopped
+2018-04-07 15:11:18 pid:6012 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:11:20 pid:6012 Workerman[start.php] stopping ...
+2018-04-07 15:11:20 pid:6012 Workerman[start.php] has been stopped
+2018-04-07 15:22:06 pid:6076 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:22:35 pid:6076 Workerman[start.php] stopping ...
+2018-04-07 15:22:35 pid:6076 Workerman[start.php] has been stopped
+2018-04-07 15:22:48 pid:6101 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:24:58 pid:6101 Workerman[start.php] stopping ...
+2018-04-07 15:24:58 pid:6101 Workerman[start.php] has been stopped
+2018-04-07 15:25:43 pid:6155 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:25:49 pid:6155 Workerman[start.php] stopping ...
+2018-04-07 15:25:49 pid:6155 Workerman[start.php] has been stopped
+2018-04-07 15:26:19 pid:6189 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:26:25 pid:6189 Workerman[start.php] stopping ...
+2018-04-07 15:26:25 pid:6189 Workerman[start.php] has been stopped
+2018-04-07 15:26:27 pid:6210 Workerman[start.php] start in DAEMON mode
+2018-04-07 15:28:51 pid:6250 Workerman[start.php] start in DAEMON mode
+2018-04-07 15:28:51 pid:6250 Workerman[start.php] already running
+2018-04-07 15:29:04 pid:6254 Workerman[start.php] stop 
+2018-04-07 15:29:04 pid:6254 Workerman[start.php] is stopping ...
+2018-04-07 15:29:04 pid:6212 Workerman[start.php] stopping ...
+2018-04-07 15:29:04 pid:6212 Workerman[start.php] has been stopped
+2018-04-07 15:29:05 pid:6254 Workerman[start.php] stop success
+2018-04-07 15:29:07 pid:6257 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:36:47 pid:6257 Workerman[start.php] stopping ...
+2018-04-07 15:36:47 pid:6257 Workerman[start.php] has been stopped
+2018-04-07 15:36:48 pid:6315 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:42:16 pid:6315 Workerman[start.php] stopping ...
+2018-04-07 15:42:16 pid:6315 Workerman[start.php] has been stopped
+2018-04-07 15:42:18 pid:6403 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:44:46 pid:6403 Workerman[start.php] stopping ...
+2018-04-07 15:44:46 pid:6403 Workerman[start.php] has been stopped
+2018-04-07 15:44:47 pid:6689 Workerman[start.php] start in DEBUG mode
+2018-04-07 15:45:51 pid:6689 Workerman[start.php] stopping ...
+2018-04-07 15:45:51 pid:6689 Workerman[start.php] has been stopped
+2018-04-07 15:53:35 pid:6754 Workerman[start.php] start in DEBUG mode
+2018-04-07 16:01:10 pid:6754 Workerman[start.php] stopping ...
+2018-04-07 16:01:13 pid:6754 Workerman[start.php] stopping ...
+2018-04-07 16:01:14 pid:6754 worker[GameBusinessWorker:6755] exit with status 9
+2018-04-07 16:01:14 pid:6754 worker[GameBusinessWorker:6756] exit with status 9
+2018-04-07 16:01:14 pid:6754 worker[GameBusinessWorker:6757] exit with status 9
+2018-04-07 16:01:14 pid:6754 worker[GameBusinessWorker:6758] exit with status 9
+2018-04-07 16:01:15 pid:6754 Workerman[start.php] has been stopped
+2018-04-07 16:01:19 pid:7208 Workerman[start.php] start in DEBUG mode
+2018-04-07 16:02:03 pid:7208 Workerman[start.php] stopping ...
+2018-04-07 16:02:03 pid:7208 Workerman[start.php] has been stopped
+2018-04-07 16:03:28 pid:7244 Workerman[start.php] start in DEBUG mode
+2018-04-07 16:19:11 pid:7244 Workerman[start.php] stopping ...
+2018-04-07 16:19:11 pid:7244 Workerman[start.php] has been stopped
+2018-04-07 16:38:01 pid:7469 Workerman[start.php] start in DEBUG mode
+2018-04-07 16:42:39 pid:7469 Workerman[start.php] stopping ...
+2018-04-07 16:42:39 pid:7469 Workerman[start.php] has been stopped
+2018-04-07 16:42:40 pid:7550 Workerman[start.php] start in DEBUG mode
+2018-04-07 17:00:18 pid:7550 Workerman[start.php] stopping ...
+2018-04-07 17:00:18 pid:7550 Workerman[start.php] has been stopped
+2018-04-07 17:00:19 pid:7718 Workerman[start.php] start in DEBUG mode
+2018-04-07 17:00:52 pid:7718 Workerman[start.php] stopping ...
+2018-04-07 17:00:52 pid:7718 Workerman[start.php] has been stopped
+2018-04-07 17:06:03 pid:7780 Workerman[start.php] start in DEBUG mode
+2018-04-07 17:06:49 pid:7780 Workerman[start.php] stopping ...
+2018-04-07 17:06:49 pid:7780 Workerman[start.php] has been stopped
+2018-04-07 17:06:50 pid:7819 Workerman[start.php] start in DEBUG mode
+2018-04-07 17:22:01 pid:7819 Workerman[start.php] stopping ...
+2018-04-07 17:22:01 pid:7819 Workerman[start.php] has been stopped
+2018-04-07 17:22:02 pid:7968 Workerman[start.php] start in DEBUG mode
+2018-04-07 17:23:57 pid:7968 Workerman[start.php] stopping ...
+2018-04-07 17:23:57 pid:7968 Workerman[start.php] has been stopped
+2018-04-07 17:25:24 pid:8017 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:05:17 pid:8017 Workerman[start.php] stopping ...
+2018-04-07 22:05:17 pid:8017 Workerman[start.php] has been stopped
+2018-04-07 22:05:19 pid:9212 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:05:42 pid:9218 Error: Call to undefined function arrary() in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:59
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b57000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b57000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:05:42 pid:9218 Worker process terminated
+2018-04-07 22:05:42 pid:9212 worker[GameBusinessWorker:9218] exit with status 64000
+2018-04-07 22:08:22 pid:9212 Workerman[start.php] stopping ...
+2018-04-07 22:08:22 pid:9212 Workerman[start.php] has been stopped
+2018-04-07 22:08:23 pid:9252 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:08:53 pid:9256 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/lingjijian/workspace/GameblingServer/Applications/Game/Applications/Game/Module/$message_data["module"].php' (include_path='.:/usr/share/php') in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php on line 58"
+2018-04-07 22:08:53 pid:9252 worker[GameBusinessWorker:9256] exit with status 65280
+2018-04-07 22:09:23 pid:9252 Workerman[start.php] stopping ...
+2018-04-07 22:09:23 pid:9252 Workerman[start.php] has been stopped
+2018-04-07 22:10:54 pid:9332 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:11:06 pid:9333 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/lingjijian/workspace/GameblingServer/Applications/Game/Applications/Game/Module/Login.php' (include_path='.:/usr/share/php') in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php on line 58"
+2018-04-07 22:11:06 pid:9332 worker[GameBusinessWorker:9333] exit with status 65280
+2018-04-07 22:11:24 pid:9332 Workerman[start.php] stopping ...
+2018-04-07 22:11:24 pid:9332 Workerman[start.php] has been stopped
+2018-04-07 22:11:50 pid:9368 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:12:04 pid:9369 Worker process terminated with ERROR: E_ERROR "Class 'Module' not found in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php on line 3"
+2018-04-07 22:12:04 pid:9368 worker[GameBusinessWorker:9369] exit with status 65280
+2018-04-07 22:12:13 pid:9368 Workerman[start.php] stopping ...
+2018-04-07 22:12:13 pid:9368 Workerman[start.php] has been stopped
+2018-04-07 22:16:16 pid:9455 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:16:40 pid:9456 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:4
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:16:40 pid:9456 Worker process terminated
+2018-04-07 22:16:41 pid:9455 worker[GameBusinessWorker:9456] exit with status 64000
+2018-04-07 22:16:50 pid:9455 Workerman[start.php] stopping ...
+2018-04-07 22:16:50 pid:9455 Workerman[start.php] has been stopped
+2018-04-07 22:21:51 pid:9558 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:22:06 pid:9562 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:5
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b57000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b57000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:22:06 pid:9562 Worker process terminated
+2018-04-07 22:22:06 pid:9558 worker[GameBusinessWorker:9562] exit with status 64000
+2018-04-07 22:22:20 pid:9558 Workerman[start.php] stopping ...
+2018-04-07 22:22:21 pid:9558 Workerman[start.php] has been stopped
+2018-04-07 22:25:54 pid:9621 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:26:08 pid:9624 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:5
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:26:08 pid:9624 Worker process terminated
+2018-04-07 22:26:08 pid:9621 worker[GameBusinessWorker:9624] exit with status 64000
+2018-04-07 22:26:23 pid:9621 Workerman[start.php] stopping ...
+2018-04-07 22:26:23 pid:9621 Workerman[start.php] has been stopped
+2018-04-07 22:27:02 pid:9667 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:27:11 pid:9668 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:5
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b54000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:27:11 pid:9668 Worker process terminated
+2018-04-07 22:27:11 pid:9667 worker[GameBusinessWorker:9668] exit with status 64000
+2018-04-07 22:27:17 pid:9667 Workerman[start.php] stopping ...
+2018-04-07 22:27:17 pid:9667 Workerman[start.php] has been stopped
+2018-04-07 22:27:42 pid:9711 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:27:53 pid:9715 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:5
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:27:53 pid:9715 Worker process terminated
+2018-04-07 22:27:53 pid:9711 worker[GameBusinessWorker:9715] exit with status 64000
+2018-04-07 22:27:59 pid:9711 Workerman[start.php] stopping ...
+2018-04-07 22:27:59 pid:9711 Workerman[start.php] has been stopped
+2018-04-07 22:28:53 pid:9764 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:29:12 pid:9765 ParseError: syntax error, unexpected 'class' (T_CLASS) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/Login.php:3
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:29:12 pid:9765 Worker process terminated
+2018-04-07 22:29:12 pid:9764 worker[GameBusinessWorker:9765] exit with status 64000
+2018-04-07 22:29:18 pid:9764 Workerman[start.php] stopping ...
+2018-04-07 22:29:18 pid:9764 Workerman[start.php] has been stopped
+2018-04-07 22:38:01 pid:9921 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:39:23 pid:9921 Workerman[start.php] stopping ...
+2018-04-07 22:39:23 pid:9921 Workerman[start.php] has been stopped
+2018-04-07 22:39:40 pid:10010 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:42:31 pid:10010 Workerman[start.php] stopping ...
+2018-04-07 22:42:31 pid:10010 Workerman[start.php] has been stopped
+2018-04-07 22:42:31 pid:10055 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:42:34 pid:10059 Error: Call to undefined function arrary() in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b56000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b56000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:42:34 pid:10059 Worker process terminated
+2018-04-07 22:42:34 pid:10055 worker[GameBusinessWorker:10059] exit with status 64000
+2018-04-07 22:42:48 pid:10055 Workerman[start.php] stopping ...
+2018-04-07 22:42:48 pid:10055 Workerman[start.php] has been stopped
+2018-04-07 22:47:59 pid:10122 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:47:59 pid:10123 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:47:59 pid:10124 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:47:59 pid:10125 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:47:59 pid:10126 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:48:00 pid:10123 Worker process terminated
+2018-04-07 22:48:00 pid:10124 Worker process terminated
+2018-04-07 22:48:00 pid:10125 Worker process terminated
+2018-04-07 22:48:00 pid:10126 Worker process terminated
+2018-04-07 22:48:00 pid:10122 worker[GameBusinessWorker:10126] exit with status 64000
+2018-04-07 22:48:00 pid:10122 worker[GameBusinessWorker:10125] exit with status 64000
+2018-04-07 22:48:00 pid:10122 worker[GameBusinessWorker:10123] exit with status 64000
+2018-04-07 22:48:00 pid:10122 worker[GameBusinessWorker:10124] exit with status 64000
+2018-04-07 22:48:00 pid:10132 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:00 pid:10133 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:00 pid:10135 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:00 pid:10134 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:01 pid:10132 Worker process terminated
+2018-04-07 22:48:01 pid:10122 worker[GameBusinessWorker:10132] exit with status 64000
+2018-04-07 22:48:01 pid:10135 Worker process terminated
+2018-04-07 22:48:01 pid:10133 Worker process terminated
+2018-04-07 22:48:01 pid:10134 Worker process terminated
+2018-04-07 22:48:01 pid:10122 worker[GameBusinessWorker:10134] exit with status 64000
+2018-04-07 22:48:01 pid:10122 worker[GameBusinessWorker:10135] exit with status 64000
+2018-04-07 22:48:01 pid:10122 worker[GameBusinessWorker:10133] exit with status 64000
+2018-04-07 22:48:01 pid:10137 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:01 pid:10139 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:01 pid:10138 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:01 pid:10140 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:02 pid:10137 Worker process terminated
+2018-04-07 22:48:02 pid:10122 worker[GameBusinessWorker:10137] exit with status 64000
+2018-04-07 22:48:02 pid:10141 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:02 pid:10138 Worker process terminated
+2018-04-07 22:48:02 pid:10139 Worker process terminated
+2018-04-07 22:48:02 pid:10122 worker[GameBusinessWorker:10138] exit with status 64000
+2018-04-07 22:48:02 pid:10140 Worker process terminated
+2018-04-07 22:48:02 pid:10122 worker[GameBusinessWorker:10139] exit with status 64000
+2018-04-07 22:48:02 pid:10122 worker[GameBusinessWorker:10140] exit with status 64000
+2018-04-07 22:48:02 pid:10142 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:02 pid:10143 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:02 pid:10144 ParseError: syntax error, unexpected ';' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:60
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:03 pid:10141 Worker process terminated
+2018-04-07 22:48:03 pid:10122 Workerman[start.php] stopping ...
+2018-04-07 22:48:03 pid:10122 worker[GameBusinessWorker:10141] exit with status 64000
+2018-04-07 22:48:03 pid:10142 Worker process terminated
+2018-04-07 22:48:03 pid:10143 Worker process terminated
+2018-04-07 22:48:03 pid:10144 Worker process terminated
+2018-04-07 22:48:03 pid:10122 worker[GameBusinessWorker:10142] exit with status 64000
+2018-04-07 22:48:03 pid:10122 worker[GameBusinessWorker:10144] exit with status 64000
+2018-04-07 22:48:03 pid:10122 worker[GameBusinessWorker:10143] exit with status 64000
+2018-04-07 22:48:03 pid:10122 Workerman[start.php] has been stopped
+2018-04-07 22:48:17 pid:10160 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:48:17 pid:10164 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:48:17 pid:10163 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:48:17 pid:10162 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:48:17 pid:10161 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#11 {main}
+2018-04-07 22:48:18 pid:10164 Worker process terminated
+2018-04-07 22:48:18 pid:10163 Worker process terminated
+2018-04-07 22:48:18 pid:10162 Worker process terminated
+2018-04-07 22:48:18 pid:10161 Worker process terminated
+2018-04-07 22:48:18 pid:10160 worker[GameBusinessWorker:10164] exit with status 64000
+2018-04-07 22:48:18 pid:10160 worker[GameBusinessWorker:10162] exit with status 64000
+2018-04-07 22:48:18 pid:10160 worker[GameBusinessWorker:10163] exit with status 64000
+2018-04-07 22:48:18 pid:10160 worker[GameBusinessWorker:10161] exit with status 64000
+2018-04-07 22:48:18 pid:10160 Workerman[start.php] stopping ...
+2018-04-07 22:48:18 pid:10171 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:18 pid:10170 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:18 pid:10172 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:18 pid:10175 ParseError: syntax error, unexpected '}' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php:61
+Stack trace:
+#0 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#1 [internal function]: spl_autoload_call('Events')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:19 pid:10171 Worker process terminated
+2018-04-07 22:48:19 pid:10170 Worker process terminated
+2018-04-07 22:48:19 pid:10160 worker[GameBusinessWorker:10171] exit with status 64000
+2018-04-07 22:48:19 pid:10160 worker[GameBusinessWorker:10170] exit with status 64000
+2018-04-07 22:48:19 pid:10175 Worker process terminated
+2018-04-07 22:48:19 pid:10172 Worker process terminated
+2018-04-07 22:48:19 pid:10160 worker[GameBusinessWorker:10175] exit with status 64000
+2018-04-07 22:48:19 pid:10160 worker[GameBusinessWorker:10172] exit with status 64000
+2018-04-07 22:48:19 pid:10160 Workerman[start.php] has been stopped
+2018-04-07 22:48:29 pid:10188 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:48:39 pid:10191 ParseError: syntax error, unexpected 'f0000010b5500000001' (T_STRING), expecting ',' or ')' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(60) : eval()'d code:1
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #42)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:48:39 pid:10191 Worker process terminated
+2018-04-07 22:48:39 pid:10188 worker[GameBusinessWorker:10191] exit with status 64000
+2018-04-07 22:49:43 pid:10188 Workerman[start.php] stopping ...
+2018-04-07 22:49:43 pid:10188 Workerman[start.php] has been stopped
+2018-04-07 22:49:44 pid:10222 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:49:47 pid:10226 ParseError: syntax error, unexpected 'f0000010b5500000001' (T_STRING), expecting ',' or ')' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(61) : eval()'d code:1
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:49:47 pid:10226 Worker process terminated
+2018-04-07 22:49:47 pid:10222 worker[GameBusinessWorker:10226] exit with status 64000
+2018-04-07 22:49:55 pid:10222 Workerman[start.php] stopping ...
+2018-04-07 22:49:55 pid:10222 Workerman[start.php] has been stopped
+2018-04-07 22:49:59 pid:10246 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:50:07 pid:10247 ParseError: syntax error, unexpected 'f0000010b5500000001' (T_STRING), expecting ',' or ')' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(61) : eval()'d code:1
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #44)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:50:07 pid:10247 Worker process terminated
+2018-04-07 22:50:07 pid:10246 worker[GameBusinessWorker:10247] exit with status 64000
+2018-04-07 22:51:19 pid:10246 Workerman[start.php] stopping ...
+2018-04-07 22:51:19 pid:10246 Workerman[start.php] has been stopped
+2018-04-07 22:51:19 pid:10282 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:51:29 pid:10286 ParseError: syntax error, unexpected end of file in /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(61) : eval()'d code:1
+Stack trace:
+#0 [internal function]: Events::onMessage('7f0000010b55000...', '{"module":"Logi...')
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b55000...', '{"module":"Logi...')
+#2 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(37): Workerman\Worker::runAll()
+#13 {main}
+2018-04-07 22:51:29 pid:10286 Worker process terminated
+2018-04-07 22:51:29 pid:10282 worker[GameBusinessWorker:10286] exit with status 64000
+2018-04-07 22:51:36 pid:10282 Workerman[start.php] stopping ...
+2018-04-07 22:51:36 pid:10282 Workerman[start.php] has been stopped
+2018-04-07 22:51:52 pid:10316 Workerman[start.php] start in DEBUG mode
+2018-04-07 22:52:03 pid:10316 Workerman[start.php] stopping ...
+2018-04-07 22:52:03 pid:10316 Workerman[start.php] has been stopped
