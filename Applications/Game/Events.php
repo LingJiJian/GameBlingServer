@@ -49,15 +49,14 @@ class Events
     */
    public static function onMessage($client_id, $message) {
       
-        $message_data = json_decode($message, true);
-        if(!$message_data && !$message_data['module'])
+        $message_data = json_decode($message);
+        if(!$message_data && !$message_data->{'module'})
         {
             return ;
         }
 
-        require_once __DIR__ . sprintf('/Module/%s.php',$message_data["module"]);
-        
-        eval(sprintf("%s::onMessage(\$client_id, \$message);",$message_data["module"]));
+        require_once __DIR__ . sprintf('/Module/%s.php',$message_data->{'module'});
+        eval(sprintf("%s::onMessage(\$client_id, \$message);",$message_data->{'module'}));
    }
    
    /**
@@ -66,6 +65,6 @@ class Events
     */
    public static function onClose($client_id) {
        // 向所有人发送 
-       GateWay::sendToAll("$client_id logout");
+       // GateWay::sendToAll("$client_id logout");
    }
 }
