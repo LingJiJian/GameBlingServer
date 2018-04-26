@@ -16,6 +16,8 @@ use \Workerman\WebServer;
 use \GatewayWorker\Gateway;
 use \GatewayWorker\BusinessWorker;
 use \Workerman\Autoloader;
+use \Workerman\Lib\Timer;
+
 
 // bussinessWorker 进程
 $worker = new BusinessWorker();

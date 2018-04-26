@@ -55,7 +55,7 @@ class Events
             return ;
         }
 
-        require_once __DIR__ . sprintf('/Module/%s.php',$message_data->{'module'});
+        require_once __DIR__ . sprintf('/Network/%s.php',$message_data->{'module'});
         eval(sprintf("%s::onMessage(\$client_id, \$message);",$message_data->{'module'}));
    }
    

@@ -1020,3 +1020,610 @@ Stack trace:
 2018-04-23 00:22:44 pid:43750 Workerman[start.php] start in DEBUG mode
 2018-04-23 00:23:38 pid:43750 Workerman[start.php] stopping ...
 2018-04-23 00:23:38 pid:43750 Workerman[start.php] has been stopped
+2018-04-24 18:02:26 pid:4238 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:02:37 pid:4238 Workerman[start.php] stopping ...
+2018-04-24 18:02:37 pid:4238 Workerman[start.php] has been stopped
+2018-04-24 18:02:51 pid:4265 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:02:56 pid:4265 Workerman[start.php] stopping ...
+2018-04-24 18:02:56 pid:4265 Workerman[start.php] has been stopped
+2018-04-24 18:02:59 pid:4285 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:03:00 pid:4285 Workerman[start.php] stopping ...
+2018-04-24 18:03:00 pid:4285 Workerman[start.php] has been stopped
+2018-04-24 18:03:18 pid:4307 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:03:27 pid:4307 Workerman[start.php] stopping ...
+2018-04-24 18:03:27 pid:4307 Workerman[start.php] has been stopped
+2018-04-24 18:06:48 pid:4349 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:06:48 pid:4352 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4351 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4351] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4352] exit with status 65280
+2018-04-24 18:06:48 pid:4353 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4350 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4353] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4350] exit with status 65280
+2018-04-24 18:06:48 pid:4360 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4361 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4359 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4360] exit with status 65280
+2018-04-24 18:06:48 pid:4362 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4361] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4362] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4359] exit with status 65280
+2018-04-24 18:06:48 pid:4364 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4363 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4365 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4365] exit with status 65280
+2018-04-24 18:06:48 pid:4366 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4363] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4364] exit with status 65280
+2018-04-24 18:06:48 pid:4367 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4367] exit with status 65280
+2018-04-24 18:06:48 pid:4368 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4366] exit with status 65280
+2018-04-24 18:06:48 pid:4369 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4369] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4368] exit with status 65280
+2018-04-24 18:06:48 pid:4370 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4370] exit with status 65280
+2018-04-24 18:06:48 pid:4371 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4372 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4373 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4371] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4373] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4372] exit with status 65280
+2018-04-24 18:06:48 pid:4374 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4375 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4374] exit with status 65280
+2018-04-24 18:06:48 pid:4377 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4376 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4376] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4375] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4377] exit with status 65280
+2018-04-24 18:06:48 pid:4378 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4379 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4380 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4380] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4378] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4379] exit with status 65280
+2018-04-24 18:06:48 pid:4381 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4381] exit with status 65280
+2018-04-24 18:06:48 pid:4382 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4383 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4384 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4382] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4383] exit with status 65280
+2018-04-24 18:06:48 pid:4385 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4385] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4384] exit with status 65280
+2018-04-24 18:06:48 pid:4386 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4386] exit with status 65280
+2018-04-24 18:06:48 pid:4387 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4388 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4389 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4389] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4388] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4387] exit with status 65280
+2018-04-24 18:06:48 pid:4391 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4390 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4391] exit with status 65280
+2018-04-24 18:06:48 pid:4392 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4393 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4390] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4392] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4393] exit with status 65280
+2018-04-24 18:06:48 pid:4394 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4394] exit with status 65280
+2018-04-24 18:06:48 pid:4395 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4396 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4396] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4395] exit with status 65280
+2018-04-24 18:06:48 pid:4397 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4398 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4398] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4397] exit with status 65280
+2018-04-24 18:06:48 pid:4399 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4400 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4402 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4399] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4400] exit with status 65280
+2018-04-24 18:06:48 pid:4401 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4402] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4401] exit with status 65280
+2018-04-24 18:06:48 pid:4404 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4403 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4405 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4403] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4404] exit with status 65280
+2018-04-24 18:06:48 pid:4406 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4406] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4405] exit with status 65280
+2018-04-24 18:06:48 pid:4408 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4408] exit with status 65280
+2018-04-24 18:06:48 pid:4407 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4409 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4407] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4409] exit with status 65280
+2018-04-24 18:06:48 pid:4410 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4410] exit with status 65280
+2018-04-24 18:06:48 pid:4411 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4411] exit with status 65280
+2018-04-24 18:06:48 pid:4413 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4412 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4414 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4414] exit with status 65280
+2018-04-24 18:06:48 pid:4415 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4413] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4412] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4415] exit with status 65280
+2018-04-24 18:06:48 pid:4416 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4416] exit with status 65280
+2018-04-24 18:06:48 pid:4418 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4417 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4418] exit with status 65280
+2018-04-24 18:06:48 pid:4419 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4419] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4417] exit with status 65280
+2018-04-24 18:06:48 pid:4420 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4421 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4420] exit with status 65280
+2018-04-24 18:06:48 pid:4422 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4423 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4421] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4422] exit with status 65280
+2018-04-24 18:06:48 pid:4349 worker[GameBusinessWorker:4423] exit with status 65280
+2018-04-24 18:06:49 pid:4424 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4425 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4424] exit with status 65280
+2018-04-24 18:06:49 pid:4426 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4427 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4425] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4427] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4426] exit with status 65280
+2018-04-24 18:06:49 pid:4428 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4429 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4431 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4430 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4431] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4428] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4429] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4430] exit with status 65280
+2018-04-24 18:06:49 pid:4432 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4433 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4432] exit with status 65280
+2018-04-24 18:06:49 pid:4435 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4434 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4433] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4434] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4435] exit with status 65280
+2018-04-24 18:06:49 pid:4436 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4437 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4438 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4439 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4436] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4438] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4437] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4439] exit with status 65280
+2018-04-24 18:06:49 pid:4441 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4442 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4440 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4441] exit with status 65280
+2018-04-24 18:06:49 pid:4443 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4442] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4440] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4443] exit with status 65280
+2018-04-24 18:06:49 pid:4444 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4445 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4445] exit with status 65280
+2018-04-24 18:06:49 pid:4446 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4447 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4444] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4447] exit with status 65280
+2018-04-24 18:06:49 pid:4448 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4446] exit with status 65280
+2018-04-24 18:06:49 pid:4449 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4448] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4449] exit with status 65280
+2018-04-24 18:06:49 pid:4450 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4451 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4450] exit with status 65280
+2018-04-24 18:06:49 pid:4452 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4451] exit with status 65280
+2018-04-24 18:06:49 pid:4453 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4452] exit with status 65280
+2018-04-24 18:06:49 pid:4454 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4455 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4454] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4453] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4455] exit with status 65280
+2018-04-24 18:06:49 pid:4456 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4457 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4456] exit with status 65280
+2018-04-24 18:06:49 pid:4458 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4459 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4457] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4459] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4458] exit with status 65280
+2018-04-24 18:06:49 pid:4460 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4461 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4462 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4462] exit with status 65280
+2018-04-24 18:06:49 pid:4463 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4460] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4461] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4463] exit with status 65280
+2018-04-24 18:06:49 pid:4464 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4467 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4466 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4466] exit with status 65280
+2018-04-24 18:06:49 pid:4465 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4464] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4467] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4465] exit with status 65280
+2018-04-24 18:06:49 pid:4469 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4468 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4468] exit with status 65280
+2018-04-24 18:06:49 pid:4470 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4469] exit with status 65280
+2018-04-24 18:06:49 pid:4471 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4470] exit with status 65280
+2018-04-24 18:06:49 pid:4472 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4471] exit with status 65280
+2018-04-24 18:06:49 pid:4473 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4472] exit with status 65280
+2018-04-24 18:06:49 pid:4474 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4473] exit with status 65280
+2018-04-24 18:06:49 pid:4475 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4474] exit with status 65280
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4475] exit with status 65280
+2018-04-24 18:06:49 pid:4476 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4477 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4349 worker[GameBusinessWorker:4476] exit with status 65280
+2018-04-24 18:06:49 pid:4478 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:49 pid:4479 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4477] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4479] exit with status 65280
+2018-04-24 18:06:50 pid:4480 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4478] exit with status 65280
+2018-04-24 18:06:50 pid:4481 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4480] exit with status 65280
+2018-04-24 18:06:50 pid:4482 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4482] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4481] exit with status 65280
+2018-04-24 18:06:50 pid:4483 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4484 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4483] exit with status 65280
+2018-04-24 18:06:50 pid:4485 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4486 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4484] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4485] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4486] exit with status 65280
+2018-04-24 18:06:50 pid:4487 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4488 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4487] exit with status 65280
+2018-04-24 18:06:50 pid:4489 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4488] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4489] exit with status 65280
+2018-04-24 18:06:50 pid:4490 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4490] exit with status 65280
+2018-04-24 18:06:50 pid:4491 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4492 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4494 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4491] exit with status 65280
+2018-04-24 18:06:50 pid:4493 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4494] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4492] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4493] exit with status 65280
+2018-04-24 18:06:50 pid:4495 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4496 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4497 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4497] exit with status 65280
+2018-04-24 18:06:50 pid:4498 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4495] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4496] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4498] exit with status 65280
+2018-04-24 18:06:50 pid:4499 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4499] exit with status 65280
+2018-04-24 18:06:50 pid:4500 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4501 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4501] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4500] exit with status 65280
+2018-04-24 18:06:50 pid:4502 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4503 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4503] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4502] exit with status 65280
+2018-04-24 18:06:50 pid:4505 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4504 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4507 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4506 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4505] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4504] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4506] exit with status 65280
+2018-04-24 18:06:50 pid:4509 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4507] exit with status 65280
+2018-04-24 18:06:50 pid:4508 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4510 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4508] exit with status 65280
+2018-04-24 18:06:50 pid:4511 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4509] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4510] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4511] exit with status 65280
+2018-04-24 18:06:50 pid:4512 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4513 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4514 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4515 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4513] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4514] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4512] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4515] exit with status 65280
+2018-04-24 18:06:50 pid:4516 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4517 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4518 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4516] exit with status 65280
+2018-04-24 18:06:50 pid:4519 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4517] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4518] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4519] exit with status 65280
+2018-04-24 18:06:50 pid:4520 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4521 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4520] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4521] exit with status 65280
+2018-04-24 18:06:50 pid:4523 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4522 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4522] exit with status 65280
+2018-04-24 18:06:50 pid:4525 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4523] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4525] exit with status 65280
+2018-04-24 18:06:50 pid:4524 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4526 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4524] exit with status 65280
+2018-04-24 18:06:50 pid:4527 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4528 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4526] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4527] exit with status 65280
+2018-04-24 18:06:50 pid:4529 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4528] exit with status 65280
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4529] exit with status 65280
+2018-04-24 18:06:50 pid:4531 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4530 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4532 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:50 pid:4349 worker[GameBusinessWorker:4531] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4530] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4532] exit with status 65280
+2018-04-24 18:06:51 pid:4533 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4533] exit with status 65280
+2018-04-24 18:06:51 pid:4536 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4534 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4535 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4536] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4535] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4534] exit with status 65280
+2018-04-24 18:06:51 pid:4537 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4538 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4537] exit with status 65280
+2018-04-24 18:06:51 pid:4539 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4540 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4540] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4538] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4539] exit with status 65280
+2018-04-24 18:06:51 pid:4541 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4542 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4541] exit with status 65280
+2018-04-24 18:06:51 pid:4543 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4543] exit with status 65280
+2018-04-24 18:06:51 pid:4544 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4544] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4542] exit with status 65280
+2018-04-24 18:06:51 pid:4545 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4546 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4547 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4545] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4546] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4547] exit with status 65280
+2018-04-24 18:06:51 pid:4548 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4548] exit with status 65280
+2018-04-24 18:06:51 pid:4549 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4549] exit with status 65280
+2018-04-24 18:06:51 pid:4550 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4551 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4552 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4550] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4551] exit with status 65280
+2018-04-24 18:06:51 pid:4553 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4552] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4553] exit with status 65280
+2018-04-24 18:06:51 pid:4554 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4555 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4554] exit with status 65280
+2018-04-24 18:06:51 pid:4556 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4556] exit with status 65280
+2018-04-24 18:06:51 pid:4557 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4555] exit with status 65280
+2018-04-24 18:06:51 pid:4558 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4557] exit with status 65280
+2018-04-24 18:06:51 pid:4559 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4560 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4561 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4559] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4561] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4558] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4560] exit with status 65280
+2018-04-24 18:06:51 pid:4562 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4563 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4564 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4565 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4563] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4562] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4564] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4565] exit with status 65280
+2018-04-24 18:06:51 pid:4566 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4568 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4566] exit with status 65280
+2018-04-24 18:06:51 pid:4569 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4567 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4569] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4568] exit with status 65280
+2018-04-24 18:06:51 pid:4570 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4571 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4567] exit with status 65280
+2018-04-24 18:06:51 pid:4572 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4572] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4570] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4571] exit with status 65280
+2018-04-24 18:06:51 pid:4573 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4573] exit with status 65280
+2018-04-24 18:06:51 pid:4574 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4575 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4574] exit with status 65280
+2018-04-24 18:06:51 pid:4576 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4576] exit with status 65280
+2018-04-24 18:06:51 pid:4577 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4575] exit with status 65280
+2018-04-24 18:06:51 pid:4578 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4577] exit with status 65280
+2018-04-24 18:06:51 pid:4579 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4580 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4579] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4578] exit with status 65280
+2018-04-24 18:06:51 pid:4581 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4580] exit with status 65280
+2018-04-24 18:06:51 pid:4582 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4583 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4583] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4581] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4582] exit with status 65280
+2018-04-24 18:06:51 pid:4584 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4586 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4585 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4584] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4586] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4585] exit with status 65280
+2018-04-24 18:06:51 pid:4587 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 Workerman[start.php] stopping ...
+2018-04-24 18:06:51 pid:4588 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4587] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4588] exit with status 65280
+2018-04-24 18:06:51 pid:4590 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4589 Worker process terminated with ERROR: E_ERROR "Class 'Timer' not found in /home/by/workspace/GameBlingServer/Applications/Game/start_businessworker.php on line 32"
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4589] exit with status 65280
+2018-04-24 18:06:51 pid:4349 worker[GameBusinessWorker:4590] exit with status 65280
+2018-04-24 18:06:51 pid:4349 Workerman[start.php] has been stopped
+2018-04-24 18:07:10 pid:4608 Workerman[start.php] start in DEBUG mode
+2018-04-24 18:07:20 pid:4608 Workerman[start.php] stopping ...
+2018-04-24 18:07:20 pid:4608 Workerman[start.php] has been stopped
+2018-04-24 18:55:46 pid:4716 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:01:06 pid:4716 Workerman[start.php] stopping ...
+2018-04-24 19:01:07 pid:4716 Workerman[start.php] has been stopped
+2018-04-24 19:01:08 pid:4815 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:02:07 pid:4815 Workerman[start.php] stopping ...
+2018-04-24 19:02:07 pid:4815 Workerman[start.php] has been stopped
+2018-04-24 19:02:08 pid:4849 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:02:12 pid:4849 Workerman[start.php] stopping ...
+2018-04-24 19:02:12 pid:4849 Workerman[start.php] has been stopped
+2018-04-24 19:02:26 pid:4877 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:02:38 pid:4877 Workerman[start.php] stopping ...
+2018-04-24 19:02:38 pid:4877 Workerman[start.php] has been stopped
+2018-04-24 19:02:40 pid:4898 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:03:13 pid:4898 Workerman[start.php] stopping ...
+2018-04-24 19:03:13 pid:4898 Workerman[start.php] has been stopped
+2018-04-24 19:03:14 pid:4917 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:03:33 pid:4917 Workerman[start.php] stopping ...
+2018-04-24 19:03:33 pid:4917 Workerman[start.php] has been stopped
+2018-04-24 19:07:12 pid:4970 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:07:14 pid:4970 Workerman[start.php] stopping ...
+2018-04-24 19:07:15 pid:4970 Workerman[start.php] has been stopped
+2018-04-24 19:09:03 pid:4997 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:23:25 pid:4997 Workerman[start.php] stopping ...
+2018-04-24 19:23:25 pid:4997 Workerman[start.php] has been stopped
+2018-04-24 19:23:26 pid:5035 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:27:25 pid:5035 Workerman[start.php] stopping ...
+2018-04-24 19:27:25 pid:5035 Workerman[start.php] has been stopped
+2018-04-24 19:27:25 pid:5088 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:31:37 pid:5088 Workerman[start.php] stopping ...
+2018-04-24 19:31:37 pid:5088 Workerman[start.php] has been stopped
+2018-04-24 19:31:38 pid:5134 Workerman[start.php] start in DEBUG mode
+2018-04-24 19:32:36 pid:5134 Workerman[start.php] stopping ...
+2018-04-24 19:32:36 pid:5139 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-24 19:32:36 pid:5134 Workerman[start.php] has been stopped
+2018-04-25 17:36:12 pid:4089 Workerman[start.php] start in DEBUG mode
+2018-04-25 17:46:03 pid:4092 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 33"
+2018-04-25 17:46:03 pid:4089 worker[GameBusinessWorker:4092] exit with status 65280
+2018-04-25 17:46:55 pid:4089 Workerman[start.php] stopping ...
+2018-04-25 17:46:55 pid:4089 Workerman[start.php] has been stopped
+2018-04-25 17:46:56 pid:4127 Workerman[start.php] start in DEBUG mode
+2018-04-25 17:47:13 pid:4129 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 33"
+2018-04-25 17:47:13 pid:4127 worker[GameBusinessWorker:4129] exit with status 65280
+2018-04-25 17:48:16 pid:4127 Workerman[start.php] stopping ...
+2018-04-25 17:48:16 pid:4127 Workerman[start.php] has been stopped
+2018-04-25 17:49:36 pid:4178 Workerman[start.php] start in DEBUG mode
+2018-04-25 17:49:50 pid:4182 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 33"
+2018-04-25 17:49:50 pid:4178 worker[GameBusinessWorker:4182] exit with status 65280
+2018-04-25 17:50:13 pid:4178 Workerman[start.php] stopping ...
+2018-04-25 17:50:13 pid:4178 Workerman[start.php] has been stopped
+2018-04-25 17:52:52 pid:4212 Workerman[start.php] start in DEBUG mode
+2018-04-25 17:53:02 pid:4215 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 33"
+2018-04-25 17:53:03 pid:4212 worker[GameBusinessWorker:4215] exit with status 65280
+2018-04-25 17:53:05 pid:4212 Workerman[start.php] stopping ...
+2018-04-25 17:53:05 pid:4212 Workerman[start.php] has been stopped
+2018-04-25 17:54:24 pid:4260 Workerman[start.php] start in DEBUG mode
+2018-04-25 17:54:37 pid:4262 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/by/workspace/GameBlingServer/Applications/Game/Common/GameConfig.php on line 5"
+2018-04-25 17:54:37 pid:4260 worker[GameBusinessWorker:4262] exit with status 65280
+2018-04-25 17:55:03 pid:4260 Workerman[start.php] stopping ...
+2018-04-25 17:55:03 pid:4260 Workerman[start.php] has been stopped
+2018-04-25 17:57:20 pid:4317 Workerman[start.php] start in DEBUG mode
+2018-04-25 18:02:17 pid:4317 Workerman[start.php] stopping ...
+2018-04-25 18:02:17 pid:4317 Workerman[start.php] has been stopped
+2018-04-25 18:02:20 pid:4357 Workerman[start.php] start in DEBUG mode
+2018-04-25 18:02:36 pid:4360 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 35"
+2018-04-25 18:02:36 pid:4357 worker[GameBusinessWorker:4360] exit with status 65280
+2018-04-25 18:04:39 pid:4357 Workerman[start.php] stopping ...
+2018-04-25 18:04:39 pid:4357 Workerman[start.php] has been stopped
+2018-04-25 18:06:08 pid:4392 Workerman[start.php] start in DEBUG mode
+2018-04-25 18:06:41 pid:4392 Workerman[start.php] stopping ...
+2018-04-25 18:06:41 pid:4392 Workerman[start.php] has been stopped
+2018-04-25 18:06:43 pid:4425 Workerman[start.php] start in DEBUG mode
+2018-04-25 18:07:00 pid:4425 Workerman[start.php] stopping ...
+2018-04-25 18:07:00 pid:4425 Workerman[start.php] has been stopped
+2018-04-25 19:03:58 pid:4538 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:06:08 pid:4538 Workerman[start.php] stopping ...
+2018-04-25 19:06:08 pid:4538 Workerman[start.php] has been stopped
+2018-04-25 19:06:08 pid:4558 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:08:06 pid:4558 Workerman[start.php] stopping ...
+2018-04-25 19:08:06 pid:4558 Workerman[start.php] has been stopped
+2018-04-25 19:08:20 pid:4585 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:11:18 pid:4585 Workerman[start.php] stopping ...
+2018-04-25 19:11:18 pid:4585 Workerman[start.php] has been stopped
+2018-04-25 19:11:19 pid:4630 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:11:30 pid:4634 Worker process terminated with ERROR: E_ERROR "Cannot access empty property in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 19"
+2018-04-25 19:11:30 pid:4630 worker[GameBusinessWorker:4634] exit with status 65280
+2018-04-25 19:12:07 pid:4630 Workerman[start.php] stopping ...
+2018-04-25 19:12:07 pid:4630 Workerman[start.php] has been stopped
+2018-04-25 19:12:08 pid:4660 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:12:20 pid:4661 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected T_OBJECT_OPERATOR in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 19"
+2018-04-25 19:12:20 pid:4660 worker[GameBusinessWorker:4661] exit with status 65280
+2018-04-25 19:15:49 pid:4660 Workerman[start.php] stopping ...
+2018-04-25 19:15:49 pid:4666 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-25 19:15:49 pid:4660 Workerman[start.php] has been stopped
+2018-04-25 19:15:49 pid:4692 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:16:18 pid:4692 Workerman[start.php] stopping ...
+2018-04-25 19:16:18 pid:4692 Workerman[start.php] has been stopped
+2018-04-25 19:16:18 pid:4710 Workerman[start.php] start in DEBUG mode
+2018-04-25 19:29:16 pid:4710 Workerman[start.php] stopping ...
+2018-04-25 19:29:17 pid:4710 Workerman[start.php] has been stopped
+2018-04-25 19:29:18 pid:4756 Workerman[start.php] start in DEBUG mode
+2018-04-25 20:54:49 pid:4756 Workerman[start.php] stopping ...
+2018-04-25 20:54:49 pid:4756 Workerman[start.php] has been stopped
+2018-04-25 20:54:50 pid:4983 Workerman[start.php] start in DEBUG mode
+2018-04-25 20:54:51 pid:4983 Workerman[start.php] stopping ...
+2018-04-25 20:54:51 pid:4983 Workerman[start.php] has been stopped
+2018-04-25 22:05:02 pid:5195 Workerman[start.php] start in DEBUG mode
+2018-04-25 22:06:20 pid:5195 Workerman[start.php] stopping ...
+2018-04-25 22:06:20 pid:5195 Workerman[start.php] has been stopped
+2018-04-25 22:07:17 pid:5225 Workerman[start.php] start in DEBUG mode
+2018-04-25 22:07:52 pid:5225 Workerman[start.php] stopping ...
+2018-04-25 22:07:52 pid:5225 Workerman[start.php] has been stopped
+2018-04-25 22:07:53 pid:5251 Workerman[start.php] start in DEBUG mode
+2018-04-26 11:35:14 pid:5251 Workerman[start.php] stopping ...
+2018-04-26 11:35:14 pid:5251 Workerman[start.php] has been stopped
+2018-04-26 11:35:15 pid:6747 Workerman[start.php] start in DEBUG mode
+2018-04-26 16:34:36 pid:6747 Workerman[start.php] stopping ...
+2018-04-26 16:34:36 pid:6747 Workerman[start.php] has been stopped
