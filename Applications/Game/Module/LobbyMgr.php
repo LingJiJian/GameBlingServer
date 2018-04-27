@@ -21,6 +21,11 @@ class LobbyMgr
 		$this->_roomDic = array();
 	}
 	
+	public function onUpdate()
+	{
+		
+	}
+
 	public function makeCreateRoom($param,$client_id){
 
 		$ret = array();
@@ -34,12 +39,21 @@ class LobbyMgr
 			$places[$i + 1] = null;
 		}
 
+		$places[1] = array(
+			'seatIdx'	=>	1,
+			'status'		=>	'idle',
+			'client_id'	=> 	$client_id,
+			'pos' 		=> 	'watcher',
+		);
+
 		$this->_roomDic[$ret['roomid']] = array(
+			'roomid'			=> 	$ret['roomid'],
 			'gameid'			=>	$param->{'gameid'},
 			'createtime'		=>	$ret['createtime'],
 			'places'			=>	$places,
 			'placeLimit' 	=>	$placeLimit
 		);
+		
 		Gateway::joinGroup($client_id,$ret['roomid']);
 
 		return array(0,$ret);

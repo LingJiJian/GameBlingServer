@@ -1627,3 +1627,350 @@ Stack trace:
 2018-04-26 11:35:15 pid:6747 Workerman[start.php] start in DEBUG mode
 2018-04-26 16:34:36 pid:6747 Workerman[start.php] stopping ...
 2018-04-26 16:34:36 pid:6747 Workerman[start.php] has been stopped
+2018-04-27 16:36:29 pid:11920 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:36:31 pid:11920 Workerman[start.php] stopping ...
+2018-04-27 16:36:31 pid:11920 Workerman[start.php] has been stopped
+2018-04-27 16:37:14 pid:11947 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:37:17 pid:11947 Workerman[start.php] stopping ...
+2018-04-27 16:37:17 pid:11947 Workerman[start.php] has been stopped
+2018-04-27 16:48:57 pid:12033 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:49:01 pid:12033 Workerman[start.php] stopping ...
+2018-04-27 16:49:01 pid:12033 Workerman[start.php] has been stopped
+2018-04-27 16:49:06 pid:12054 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:49:15 pid:12054 Workerman[start.php] stopping ...
+2018-04-27 16:49:15 pid:12054 Workerman[start.php] has been stopped
+2018-04-27 16:49:21 pid:12082 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:49:25 pid:12082 Workerman[start.php] stopping ...
+2018-04-27 16:49:26 pid:12082 Workerman[start.php] has been stopped
+2018-04-27 16:49:32 pid:12109 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:49:44 pid:12109 Workerman[start.php] stopping ...
+2018-04-27 16:49:44 pid:12109 Workerman[start.php] has been stopped
+2018-04-27 16:57:15 pid:12186 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:57:21 pid:12186 Workerman[start.php] stopping ...
+2018-04-27 16:57:21 pid:12186 Workerman[start.php] has been stopped
+2018-04-27 16:58:19 pid:12247 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:58:19 pid:12250 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12251 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12249 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12248 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12251] exit with status 65280
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12248] exit with status 65280
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12250] exit with status 65280
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12249] exit with status 65280
+2018-04-27 16:58:19 pid:12257 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12258 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12257] exit with status 65280
+2018-04-27 16:58:19 pid:12260 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12259 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12259] exit with status 65280
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12260] exit with status 65280
+2018-04-27 16:58:19 pid:12247 worker[GameBusinessWorker:12258] exit with status 65280
+2018-04-27 16:58:19 pid:12261 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12263 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12263] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12261] exit with status 65280
+2018-04-27 16:58:20 pid:12262 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12264 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12262] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12264] exit with status 65280
+2018-04-27 16:58:20 pid:12265 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12265] exit with status 65280
+2018-04-27 16:58:20 pid:12266 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12268 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12267 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12266] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12268] exit with status 65280
+2018-04-27 16:58:20 pid:12269 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12269] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12267] exit with status 65280
+2018-04-27 16:58:20 pid:12271 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12270 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12272 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12273 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12271] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12273] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12270] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12272] exit with status 65280
+2018-04-27 16:58:20 pid:12275 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12276 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12275] exit with status 65280
+2018-04-27 16:58:20 pid:12277 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12276] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12277] exit with status 65280
+2018-04-27 16:58:20 pid:12274 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12278 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12274] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12278] exit with status 65280
+2018-04-27 16:58:20 pid:12279 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12280 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12279] exit with status 65280
+2018-04-27 16:58:20 pid:12282 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12281 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12280] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12281] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12282] exit with status 65280
+2018-04-27 16:58:20 pid:12283 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12284 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12285 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12283] exit with status 65280
+2018-04-27 16:58:20 pid:12286 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12284] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12285] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12286] exit with status 65280
+2018-04-27 16:58:20 pid:12287 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12288 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12288] exit with status 65280
+2018-04-27 16:58:20 pid:12289 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12287] exit with status 65280
+2018-04-27 16:58:20 pid:12290 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12289] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12290] exit with status 65280
+2018-04-27 16:58:20 pid:12292 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12291 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12291] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12292] exit with status 65280
+2018-04-27 16:58:20 pid:12293 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12294 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12293] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12294] exit with status 65280
+2018-04-27 16:58:20 pid:12296 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12295 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12295] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12296] exit with status 65280
+2018-04-27 16:58:20 pid:12298 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12297 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12297] exit with status 65280
+2018-04-27 16:58:20 pid:12299 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12298] exit with status 65280
+2018-04-27 16:58:20 pid:12300 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12300] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12299] exit with status 65280
+2018-04-27 16:58:20 pid:12301 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12302 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12302] exit with status 65280
+2018-04-27 16:58:20 pid:12303 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12304 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12301] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12304] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12303] exit with status 65280
+2018-04-27 16:58:20 pid:12305 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12307 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12307] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12305] exit with status 65280
+2018-04-27 16:58:20 pid:12308 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12306 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12309 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12306] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12308] exit with status 65280
+2018-04-27 16:58:20 pid:12310 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12309] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12310] exit with status 65280
+2018-04-27 16:58:20 pid:12312 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12311 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12313 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12312] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12311] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12313] exit with status 65280
+2018-04-27 16:58:20 pid:12314 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12317 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12315 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12314] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12317] exit with status 65280
+2018-04-27 16:58:20 pid:12316 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12315] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12316] exit with status 65280
+2018-04-27 16:58:20 pid:12318 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12319 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12319] exit with status 65280
+2018-04-27 16:58:20 pid:12320 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12320] exit with status 65280
+2018-04-27 16:58:20 pid:12321 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12321] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12318] exit with status 65280
+2018-04-27 16:58:20 pid:12322 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12323 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12323] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12322] exit with status 65280
+2018-04-27 16:58:20 pid:12324 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12325 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12325] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12324] exit with status 65280
+2018-04-27 16:58:20 pid:12326 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12327 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12328 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12326] exit with status 65280
+2018-04-27 16:58:20 pid:12329 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 Workerman[start.php] stopping ...
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12327] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12328] exit with status 65280
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12329] exit with status 65280
+2018-04-27 16:58:20 pid:12330 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '}' in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 37"
+2018-04-27 16:58:20 pid:12247 worker[GameBusinessWorker:12330] exit with status 65280
+2018-04-27 16:58:20 pid:12247 Workerman[start.php] has been stopped
+2018-04-27 16:58:25 pid:12340 Workerman[start.php] start in DEBUG mode
+2018-04-27 16:58:29 pid:12340 Workerman[start.php] stopping ...
+2018-04-27 16:58:29 pid:12340 Workerman[start.php] has been stopped
+2018-04-27 21:45:44 pid:13168 Workerman[start.php] start in DEBUG mode
+2018-04-27 21:45:44 pid:13172 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13170 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13172] exit with status 65280
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13170] exit with status 65280
+2018-04-27 21:45:44 pid:13171 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13171] exit with status 65280
+2018-04-27 21:45:44 pid:13169 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13169] exit with status 65280
+2018-04-27 21:45:44 pid:13178 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13179 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13178] exit with status 65280
+2018-04-27 21:45:44 pid:13180 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13181 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13179] exit with status 65280
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13180] exit with status 65280
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13181] exit with status 65280
+2018-04-27 21:45:44 pid:13184 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13184] exit with status 65280
+2018-04-27 21:45:44 pid:13185 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13182 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13183 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13185] exit with status 65280
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13182] exit with status 65280
+2018-04-27 21:45:44 pid:13168 worker[GameBusinessWorker:13183] exit with status 65280
+2018-04-27 21:45:44 pid:13187 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13188 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:44 pid:13189 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13187] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13188] exit with status 65280
+2018-04-27 21:45:45 pid:13186 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13189] exit with status 65280
+2018-04-27 21:45:45 pid:13190 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13191 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13186] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13190] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13191] exit with status 65280
+2018-04-27 21:45:45 pid:13192 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13192] exit with status 65280
+2018-04-27 21:45:45 pid:13195 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13193 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13194 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13193] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13194] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13195] exit with status 65280
+2018-04-27 21:45:45 pid:13196 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13196] exit with status 65280
+2018-04-27 21:45:45 pid:13197 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13198 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13199 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13197] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13198] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13199] exit with status 65280
+2018-04-27 21:45:45 pid:13200 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13202 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13200] exit with status 65280
+2018-04-27 21:45:45 pid:13203 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13203] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13202] exit with status 65280
+2018-04-27 21:45:45 pid:13201 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13204 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13201] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13204] exit with status 65280
+2018-04-27 21:45:45 pid:13206 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 Workerman[start.php] stopping ...
+2018-04-27 21:45:45 pid:13205 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13207 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13207] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13205] exit with status 65280
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13206] exit with status 65280
+2018-04-27 21:45:45 pid:13208 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/../Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Events.php on line 22"
+2018-04-27 21:45:45 pid:13168 worker[GameBusinessWorker:13208] exit with status 65280
+2018-04-27 21:45:45 pid:13168 Workerman[start.php] has been stopped
+2018-04-27 21:46:17 pid:13219 Workerman[start.php] start in DEBUG mode
+2018-04-27 21:46:17 pid:13223 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13223] exit with status 65280
+2018-04-27 21:46:17 pid:13220 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13221 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13222 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13222] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13221] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13220] exit with status 65280
+2018-04-27 21:46:17 pid:13229 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13230 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13229] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13230] exit with status 65280
+2018-04-27 21:46:17 pid:13231 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13231] exit with status 65280
+2018-04-27 21:46:17 pid:13232 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13232] exit with status 65280
+2018-04-27 21:46:17 pid:13235 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13234 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13236 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13233 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13236] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13233] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13234] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13235] exit with status 65280
+2018-04-27 21:46:17 pid:13237 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13238 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13239 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13240 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13237] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13240] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13238] exit with status 65280
+2018-04-27 21:46:17 pid:13219 worker[GameBusinessWorker:13239] exit with status 65280
+2018-04-27 21:46:17 pid:13241 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13242 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13242] exit with status 65280
+2018-04-27 21:46:18 pid:13244 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13243 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13241] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13244] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13243] exit with status 65280
+2018-04-27 21:46:18 pid:13246 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13245 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13248 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13246] exit with status 65280
+2018-04-27 21:46:18 pid:13247 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13248] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13245] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13247] exit with status 65280
+2018-04-27 21:46:18 pid:13249 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13250 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13251 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13249] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13250] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13251] exit with status 65280
+2018-04-27 21:46:18 pid:13252 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13253 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13252] exit with status 65280
+2018-04-27 21:46:18 pid:13254 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13253] exit with status 65280
+2018-04-27 21:46:18 pid:13255 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13256 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13257 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13254] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13255] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13256] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13257] exit with status 65280
+2018-04-27 21:46:18 pid:13260 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13260] exit with status 65280
+2018-04-27 21:46:18 pid:13258 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13259 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13258] exit with status 65280
+2018-04-27 21:46:18 pid:13261 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13259] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13261] exit with status 65280
+2018-04-27 21:46:18 pid:13219 Workerman[start.php] stopping ...
+2018-04-27 21:46:18 pid:13263 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13264 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13262 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13265 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Module/NiuNiuMgr.php on line 98"
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13262] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13263] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13264] exit with status 65280
+2018-04-27 21:46:18 pid:13219 worker[GameBusinessWorker:13265] exit with status 65280
+2018-04-27 21:46:18 pid:13219 Workerman[start.php] has been stopped
+2018-04-27 21:46:32 pid:13282 Workerman[start.php] start in DEBUG mode
+2018-04-27 21:46:33 pid:13282 Workerman[start.php] stopping ...
+2018-04-27 21:46:33 pid:13282 Workerman[start.php] has been stopped
+2018-04-27 21:47:33 pid:13309 Workerman[start.php] start in DEBUG mode
+2018-04-27 21:47:34 pid:13309 Workerman[start.php] stopping ...
+2018-04-27 21:47:34 pid:13309 Workerman[start.php] has been stopped

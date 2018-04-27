@@ -16,7 +16,6 @@ use \Workerman\WebServer;
 use \GatewayWorker\Gateway;
 use \GatewayWorker\BusinessWorker;
 use \Workerman\Autoloader;
-use \Workerman\Lib\Timer;
 
 
 // bussinessWorker 进程
@@ -27,6 +26,11 @@ $worker->name = 'GameBusinessWorker';
 $worker->count = 4;
 // 服务注册地址
 $worker->registerAddress = '127.0.0.1:1238';
+
+// Timer::add(1,function(){
+
+//     echo "zzzzz11";
+// },null,false);
 
 // 如果不是在根目录启动，则运行runAll方法
 if(!defined('GLOBAL_START')) {

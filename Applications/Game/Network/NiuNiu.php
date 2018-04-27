@@ -20,8 +20,14 @@ class NiuNiu
 		$result = array(999,'');
 		if($msgid == MsgIds::NiuNiu_SetPos)
 		{
-			// NiuNiuMgr::GetInstance()->makeSetPos($message_data);
+			NiuNiuMgr::GetInstance()->makeSetPos($client_id,
+				$message_data->{"param"}->{'pos'},
+				$message_data->{'param'}->{'target_seatidx'});
 		}
+		// elseif($msgid == MsgIds::NiuNiu_Deal)
+		// {
+		// 	// NiuNiuMgr::GetInstance()->make
+		// }
 	}
 
 	public static function SendDealCard($client_ids)

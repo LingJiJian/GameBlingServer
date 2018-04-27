@@ -19,7 +19,10 @@
  */
 //declare(ticks=1);
 
+require_once __DIR__ . '/Module/NiuNiuMgr.php';
+
 use \GatewayWorker\Lib\Gateway;
+use \Workerman\Lib\Timer;
 
 /**
  * 主逻辑
@@ -28,6 +31,15 @@ use \GatewayWorker\Lib\Gateway;
  */
 class Events
 {
+    public static function onWorkerStart($worker){
+        if($worker->id === 0){
+
+            Timer::add(1,function(){
+                NiuNiuMgr::GetInstance()->onUpdate();
+            });
+        }
+    }
+
     /**
      * 当客户端连接时触发
      * 如果业务不需此回调可以删除onConnect
