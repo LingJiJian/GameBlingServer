@@ -3,6 +3,8 @@
 require_once __DIR__ . '/../Common/GameConfig.php';
 require_once __DIR__ . '/../Common/Util.php';
 
+use \GatewayWorker\Lib\Gateway;
+
 class LobbyMgr
 {
 	private static $_instance;
@@ -39,21 +41,20 @@ class LobbyMgr
 			$places[$i + 1] = null;
 		}
 
-		$places[1] = array(
-			'seatIdx'	=>	1,
-			'status'		=>	'idle',
-			'client_id'	=> 	$client_id,
-			'pos' 		=> 	'watcher',
-		);
+		$places[1] = new EntityVo();
+		$places[1]->seatIdx		=	1;
+		$places[1]->status		=	'idle';
+		$places[1]->client_id	= 	$client_id;
+		$places[1]->pos 			= 	'watcher';
 
-		$this->_roomDic[$ret['roomid']] = array(
+		$this->_roomDic[$ret['roomid']] = new EntityVo();
 			'roomid'			=> 	$ret['roomid'],
 			'gameid'			=>	$param->{'gameid'},
 			'createtime'		=>	$ret['createtime'],
 			'places'			=>	$places,
-			'placeLimit' 	=>	$placeLimit
+			'placeLimit' 	=>	$placeLimit,
+			'status'			=> 	'idle'
 		);
-		
 		Gateway::joinGroup($client_id,$ret['roomid']);
 
 		return array(0,$ret);
@@ -75,16 +76,14 @@ class LobbyMgr
 			if($seatIdx == -1){
 				return array(1,$ret,"房间满人了!");
 			}else{
-				$room['places'][$seatIdx] = array(
-					'seatIdx'	=>	$seatIdx,
-					'status'		=>	'idle',
-					'client_id'	=> 	$client_id
-				);
-				foreach ($room['places'][$seatIdx] as $key => $value) {
-					$ret[$key] = $value;
-				}
+				echo "-------- seatIdx " . $seatIdx ;
+				$room['places'][$seatIdx] = new EntityVo();
+				$room['places'][$seatIdx]->seatIdx	= $seatIdx;
+				$room['places'][$seatIdx]->status		= 'idle';
+				$room['places'][$seatIdx]->client_id	= $client_id;
+				$room['places'][$seatIdx]->pos		= 'watcher';
 			}
-			return array(0,$ret);
+			return array(0,$room,'');
 		}else{
 			return array(1,$ret,"房间不存在!");
 		}
@@ -106,7 +105,7 @@ class LobbyMgr
 		foreach ($this->_roomDic as $roomId => $roomObj) {
 			foreach ($roomObj['places'] as $seatIdx => $persion) {
 				if($persion['client_id'] == $client_id){
-					unset($roomObj['places'],$seatIdx);
+					$roomObj['places'][$seatIdx] = null;
 					$ret['roomid'] = $roomId;
 					return array(0,$ret);
 				}

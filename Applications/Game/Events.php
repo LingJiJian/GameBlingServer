@@ -20,6 +20,7 @@
 //declare(ticks=1);
 
 require_once __DIR__ . '/Module/NiuNiuMgr.php';
+require_once __DIR__ . '/Module/LoginMgr.php';
 
 use \GatewayWorker\Lib\Gateway;
 use \Workerman\Lib\Timer;
@@ -34,6 +35,7 @@ class Events
     public static function onWorkerStart($worker){
         if($worker->id === 0){
 
+            echo "game server init";
             Timer::add(1,function(){
                 NiuNiuMgr::GetInstance()->onUpdate();
             });
@@ -78,5 +80,6 @@ class Events
    public static function onClose($client_id) {
        // 向所有人发送 
        // GateWay::sendToAll("$client_id logout");
+      LoginMgr::GetInstance()->onClose($client_id);
    }
 }

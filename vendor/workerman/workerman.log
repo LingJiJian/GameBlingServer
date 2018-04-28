@@ -1974,3 +1974,204 @@ Stack trace:
 2018-04-27 21:47:33 pid:13309 Workerman[start.php] start in DEBUG mode
 2018-04-27 21:47:34 pid:13309 Workerman[start.php] stopping ...
 2018-04-27 21:47:34 pid:13309 Workerman[start.php] has been stopped
+2018-04-28 11:44:16 pid:15153 Workerman[start.php] start in DEBUG mode
+2018-04-28 11:44:17 pid:15153 Workerman[start.php] stopping ...
+2018-04-28 11:44:17 pid:15153 Workerman[start.php] has been stopped
+2018-04-28 11:44:56 pid:15177 Workerman[start.php] start in DEBUG mode
+2018-04-28 11:44:58 pid:15177 Workerman[start.php] stopping ...
+2018-04-28 11:44:59 pid:15177 Workerman[start.php] has been stopped
+2018-04-28 12:11:23 pid:15242 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:12:08 pid:15243 Worker process terminated with ERROR: E_ERROR "Class 'Gateway' not found in /home/by/workspace/GameBlingServer/Applications/Game/Module/LobbyMgr.php on line 57"
+2018-04-28 12:12:08 pid:15242 worker[GameBusinessWorker:15243] exit with status 65280
+2018-04-28 12:12:58 pid:15242 Workerman[start.php] stopping ...
+2018-04-28 12:12:58 pid:15242 Workerman[start.php] has been stopped
+2018-04-28 12:12:58 pid:15273 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:13:26 pid:15276 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/Network/Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php on line 33"
+2018-04-28 12:13:26 pid:15273 worker[GameBusinessWorker:15276] exit with status 65280
+2018-04-28 12:14:04 pid:15273 Workerman[start.php] stopping ...
+2018-04-28 12:14:04 pid:15273 Workerman[start.php] has been stopped
+2018-04-28 12:14:53 pid:15334 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:15:39 pid:15338 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/Network/Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php on line 35"
+2018-04-28 12:15:39 pid:15334 worker[GameBusinessWorker:15338] exit with status 65280
+2018-04-28 12:16:26 pid:15334 Workerman[start.php] stopping ...
+2018-04-28 12:16:26 pid:15334 Workerman[start.php] has been stopped
+2018-04-28 12:16:28 pid:15370 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:16:41 pid:15373 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required '/home/by/workspace/GameBlingServer/Applications/Game/Network/Module/NiuNiuMgr.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php on line 37"
+2018-04-28 12:16:41 pid:15370 worker[GameBusinessWorker:15373] exit with status 65280
+2018-04-28 12:17:55 pid:15370 Workerman[start.php] stopping ...
+2018-04-28 12:17:55 pid:15370 Workerman[start.php] has been stopped
+2018-04-28 12:17:55 pid:15399 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:18:28 pid:15399 Workerman[start.php] stopping ...
+2018-04-28 12:18:28 pid:15399 Workerman[start.php] has been stopped
+2018-04-28 12:19:51 pid:15437 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:22:20 pid:15437 Workerman[start.php] stopping ...
+2018-04-28 12:22:20 pid:15437 Workerman[start.php] has been stopped
+2018-04-28 12:22:20 pid:15465 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:22:36 pid:15468 Worker process terminated with ERROR: E_ERROR "Class 'NiuNiu' not found in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php(41) : eval()'d code on line 1"
+2018-04-28 12:22:36 pid:15465 worker[GameBusinessWorker:15468] exit with status 65280
+2018-04-28 12:23:37 pid:15465 Workerman[start.php] stopping ...
+2018-04-28 12:23:37 pid:15465 Workerman[start.php] has been stopped
+2018-04-28 12:23:38 pid:15489 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:23:53 pid:15491 Worker process terminated with ERROR: E_ERROR "Class 'NiuNiu' not found in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php(45) : eval()'d code on line 1"
+2018-04-28 12:23:53 pid:15489 worker[GameBusinessWorker:15491] exit with status 65280
+2018-04-28 12:24:27 pid:15489 Workerman[start.php] stopping ...
+2018-04-28 12:24:27 pid:15489 Workerman[start.php] has been stopped
+2018-04-28 12:24:27 pid:15527 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:25:31 pid:15527 Workerman[start.php] stopping ...
+2018-04-28 12:25:31 pid:15527 Workerman[start.php] has been stopped
+2018-04-28 12:25:31 pid:15562 Workerman[start.php] start in DEBUG mode
+2018-04-28 12:57:27 pid:15562 Workerman[start.php] stopping ...
+2018-04-28 12:57:27 pid:15562 Workerman[start.php] has been stopped
+2018-04-28 14:32:36 pid:15775 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:33:30 pid:15775 Workerman[start.php] stopping ...
+2018-04-28 14:33:30 pid:15775 Workerman[start.php] has been stopped
+2018-04-28 14:36:54 pid:15822 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:38:12 pid:15822 Workerman[start.php] stopping ...
+2018-04-28 14:38:12 pid:15822 Workerman[start.php] has been stopped
+2018-04-28 14:38:12 pid:15842 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:40:06 pid:15842 Workerman[start.php] stopping ...
+2018-04-28 14:40:06 pid:15842 Workerman[start.php] has been stopped
+2018-04-28 14:40:07 pid:15884 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:41:08 pid:15884 Workerman[start.php] stopping ...
+2018-04-28 14:41:08 pid:15884 Workerman[start.php] has been stopped
+2018-04-28 14:41:15 pid:15912 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:46:42 pid:15912 Workerman[start.php] stopping ...
+2018-04-28 14:46:42 pid:15912 Workerman[start.php] has been stopped
+2018-04-28 14:46:43 pid:15944 Workerman[start.php] start in DEBUG mode
+2018-04-28 14:53:12 pid:15944 Workerman[start.php] stopping ...
+2018-04-28 14:53:12 pid:15944 Workerman[start.php] has been stopped
+2018-04-28 15:08:24 pid:16276 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:08:38 pid:16278 Worker process terminated with ERROR: E_COMPILE_ERROR "Cannot redeclare class NiuNiuMgr in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 6"
+2018-04-28 15:08:38 pid:16276 worker[GameBusinessWorker:16278] exit with status 65280
+2018-04-28 15:10:05 pid:16276 Workerman[start.php] stopping ...
+2018-04-28 15:10:05 pid:16276 Workerman[start.php] has been stopped
+2018-04-28 15:15:03 pid:16330 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:15:06 pid:16330 Workerman[start.php] stopping ...
+2018-04-28 15:15:06 pid:16330 Workerman[start.php] has been stopped
+2018-04-28 15:16:05 pid:16368 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:16:19 pid:16372 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '{' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 23"
+2018-04-28 15:16:20 pid:16368 worker[GameBusinessWorker:16372] exit with status 65280
+2018-04-28 15:16:31 pid:16368 Workerman[start.php] stopping ...
+2018-04-28 15:16:31 pid:16368 Workerman[start.php] has been stopped
+2018-04-28 15:16:31 pid:16389 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:17:18 pid:16389 Workerman[start.php] stopping ...
+2018-04-28 15:17:18 pid:16389 Workerman[start.php] has been stopped
+2018-04-28 15:17:47 pid:16420 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:18:43 pid:16420 Workerman[start.php] stopping ...
+2018-04-28 15:18:43 pid:16420 Workerman[start.php] has been stopped
+2018-04-28 15:18:43 pid:16449 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:22:23 pid:16449 Workerman[start.php] stopping ...
+2018-04-28 15:22:23 pid:16457 SendBufferToWorker fail. May be the send buffer are overflow. See http://wiki.workerman.net/Error2 for detail
+2018-04-28 15:22:23 pid:16449 Workerman[start.php] has been stopped
+2018-04-28 15:22:23 pid:16478 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:22:55 pid:16478 Workerman[start.php] stopping ...
+2018-04-28 15:22:55 pid:16478 Workerman[start.php] has been stopped
+2018-04-28 15:23:07 pid:16499 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:23:34 pid:16499 Workerman[start.php] stopping ...
+2018-04-28 15:23:35 pid:16499 Workerman[start.php] has been stopped
+2018-04-28 15:23:35 pid:16523 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:24:57 pid:16523 Workerman[start.php] stopping ...
+2018-04-28 15:24:57 pid:16523 Workerman[start.php] has been stopped
+2018-04-28 15:24:57 pid:16551 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:25:29 pid:16551 Workerman[start.php] stopping ...
+2018-04-28 15:25:30 pid:16551 Workerman[start.php] has been stopped
+2018-04-28 15:25:36 pid:16592 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:26:14 pid:16592 Workerman[start.php] stopping ...
+2018-04-28 15:26:14 pid:16592 Workerman[start.php] has been stopped
+2018-04-28 15:26:15 pid:16619 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:27:34 pid:16619 Workerman[start.php] stopping ...
+2018-04-28 15:27:34 pid:16619 Workerman[start.php] has been stopped
+2018-04-28 15:27:35 pid:16646 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:28:06 pid:16646 Workerman[start.php] stopping ...
+2018-04-28 15:28:06 pid:16646 Workerman[start.php] has been stopped
+2018-04-28 15:28:26 pid:16674 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:33:56 pid:16674 Workerman[start.php] stopping ...
+2018-04-28 15:33:56 pid:16674 Workerman[start.php] has been stopped
+2018-04-28 15:44:04 pid:16829 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:44:25 pid:16829 Workerman[start.php] stopping ...
+2018-04-28 15:44:25 pid:16829 Workerman[start.php] has been stopped
+2018-04-28 15:45:02 pid:16865 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:45:05 pid:16865 Workerman[start.php] stopping ...
+2018-04-28 15:45:05 pid:16865 Workerman[start.php] has been stopped
+2018-04-28 15:46:08 pid:16903 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:46:15 pid:16903 Workerman[start.php] stopping ...
+2018-04-28 15:46:16 pid:16903 Workerman[start.php] has been stopped
+2018-04-28 15:46:16 pid:16927 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:49:30 pid:16927 Workerman[start.php] stopping ...
+2018-04-28 15:49:30 pid:16927 Workerman[start.php] has been stopped
+2018-04-28 15:49:31 pid:16964 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:50:54 pid:16964 Workerman[start.php] stopping ...
+2018-04-28 15:50:54 pid:16964 Workerman[start.php] has been stopped
+2018-04-28 15:52:32 pid:17004 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:55:22 pid:17004 Workerman[start.php] stopping ...
+2018-04-28 15:55:22 pid:17004 Workerman[start.php] has been stopped
+2018-04-28 15:55:22 pid:17049 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:57:02 pid:17049 Workerman[start.php] stopping ...
+2018-04-28 15:57:03 pid:17049 Workerman[start.php] has been stopped
+2018-04-28 15:57:03 pid:17069 Workerman[start.php] start in DEBUG mode
+2018-04-28 15:58:15 pid:17069 Workerman[start.php] stopping ...
+2018-04-28 15:58:15 pid:17069 Workerman[start.php] has been stopped
+2018-04-28 15:58:16 pid:17095 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:01:58 pid:17095 Workerman[start.php] stopping ...
+2018-04-28 16:01:58 pid:17095 Workerman[start.php] has been stopped
+2018-04-28 16:01:59 pid:17125 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:03:08 pid:17125 Workerman[start.php] stopping ...
+2018-04-28 16:03:08 pid:17125 Workerman[start.php] has been stopped
+2018-04-28 16:03:08 pid:17151 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:04:09 pid:17151 Workerman[start.php] stopping ...
+2018-04-28 16:04:09 pid:17151 Workerman[start.php] has been stopped
+2018-04-28 16:06:47 pid:17237 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:08:32 pid:17237 Workerman[start.php] stopping ...
+2018-04-28 16:08:33 pid:17237 Workerman[start.php] has been stopped
+2018-04-28 16:08:33 pid:17265 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:11:58 pid:17265 Workerman[start.php] stopping ...
+2018-04-28 16:11:58 pid:17265 Workerman[start.php] has been stopped
+2018-04-28 16:12:07 pid:17302 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:13:15 pid:17302 Workerman[start.php] stopping ...
+2018-04-28 16:13:15 pid:17302 Workerman[start.php] has been stopped
+2018-04-28 16:23:59 pid:17400 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:26:42 pid:17400 Workerman[start.php] stopping ...
+2018-04-28 16:26:42 pid:17400 Workerman[start.php] has been stopped
+2018-04-28 16:26:43 pid:17415 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:27:40 pid:17415 Workerman[start.php] stopping ...
+2018-04-28 16:27:40 pid:17415 Workerman[start.php] has been stopped
+2018-04-28 16:30:41 pid:17449 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:35:05 pid:17449 Workerman[start.php] stopping ...
+2018-04-28 16:35:05 pid:17449 Workerman[start.php] has been stopped
+2018-04-28 16:35:16 pid:17483 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:35:58 pid:17483 Workerman[start.php] stopping ...
+2018-04-28 16:35:58 pid:17483 Workerman[start.php] has been stopped
+2018-04-28 16:41:42 pid:17534 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:42:29 pid:17534 Workerman[start.php] stopping ...
+2018-04-28 16:42:29 pid:17534 Workerman[start.php] has been stopped
+2018-04-28 16:44:07 pid:17559 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:44:30 pid:17559 Workerman[start.php] stopping ...
+2018-04-28 16:44:30 pid:17559 Workerman[start.php] has been stopped
+2018-04-28 16:46:13 pid:17590 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:47:23 pid:17590 Workerman[start.php] stopping ...
+2018-04-28 16:47:23 pid:17590 Workerman[start.php] has been stopped
+2018-04-28 16:47:24 pid:17613 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:48:57 pid:17613 Workerman[start.php] stopping ...
+2018-04-28 16:48:57 pid:17613 Workerman[start.php] has been stopped
+2018-04-28 16:48:57 pid:17659 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:49:42 pid:17659 Workerman[start.php] stopping ...
+2018-04-28 16:49:42 pid:17659 Workerman[start.php] has been stopped
+2018-04-28 16:57:47 pid:17714 Workerman[start.php] start in DEBUG mode
+2018-04-28 16:58:39 pid:17714 Workerman[start.php] stopping ...
+2018-04-28 16:58:39 pid:17714 Workerman[start.php] has been stopped
+2018-04-28 17:02:00 pid:17733 Workerman[start.php] start in DEBUG mode
+2018-04-28 17:02:17 pid:17733 Workerman[start.php] stopping ...
+2018-04-28 17:02:17 pid:17733 Workerman[start.php] has been stopped
+2018-04-28 17:33:42 pid:18057 Workerman[start.php] start in DEBUG mode
+2018-04-28 17:34:26 pid:18058 Worker process terminated with ERROR: E_ERROR "Cannot use object of type EntityVo as array in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 37"
+2018-04-28 17:34:26 pid:18057 worker[GameBusinessWorker:18058] exit with status 65280
+2018-04-28 17:34:30 pid:18057 Workerman[start.php] stopping ...
+2018-04-28 17:34:30 pid:18057 Workerman[start.php] has been stopped
+2018-04-28 17:35:02 pid:18076 Workerman[start.php] start in DEBUG mode
+2018-04-28 17:35:04 pid:18076 Workerman[start.php] stopping ...
+2018-04-28 17:35:04 pid:18076 Workerman[start.php] has been stopped
+2018-04-28 17:35:20 pid:18098 Workerman[start.php] start in DEBUG mode
+2018-04-28 17:35:39 pid:18099 Worker process terminated with ERROR: E_ERROR "Cannot use object of type EntityVo as array in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 49"
+2018-04-28 17:35:39 pid:18098 worker[GameBusinessWorker:18099] exit with status 65280
+2018-04-28 18:12:26 pid:18098 Workerman[start.php] stopping ...
+2018-04-28 18:12:26 pid:18098 Workerman[start.php] has been stopped

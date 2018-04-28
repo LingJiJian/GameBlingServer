@@ -29,6 +29,9 @@ class NiuNiuMgr
 			if($fsm['status'] == 'idle'){
 				$room = LobbyMgr::GetInstance()->getRoomById($roomid);
 				
+				echo '-----------------onUpdate---------------------';
+				var_dump($room);
+
 				$hasBanker = false;
 				$hasPersion = false;
 				foreach ($room['places'] as $seatIdx => $persion) {
@@ -40,54 +43,95 @@ class NiuNiuMgr
 						}
 					}
 				}
+
 				// start game
 				if($hasPersion && $hasBanker){
 					$fsm['cards'] = get_pokers(52);
 					$fsm['status'] = 'prepare';
 					$fsm['nextst'] = time() + 5;
 
-					Gateway::sendToGroup($room['roomid']);
+					$json_obj = array();
+					$json_obj['ret'] = 0;
+					$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
+					$json_obj['data'] = array(
+						'status' => $fsm['status'],
+						'endst' =>  $fsm['nextst']
+					);
+					echo 'start game';
+					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
 			}
 			elseif($fsm['status'] == 'prepare')
 			{
 				if($fsm['nextst'] >= time()){
 					$fsm['status'] = 'deal';
+
+					$json_obj = array();
+					$json_obj['ret'] = 0;
+					$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
+					$json_obj['data'] = array(
+						'status' => $fsm['status'],
+						'endst' =>  $fsm['nextst']
+					);
+					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
-				Gateway::sendToGroup($room['roomid']);
 			}
 			elseif($fsm['status'] == 'deal')
 			{
 				$fsm['status'] = 'betting';
 				$fsm['nextst'] = time() + 5;
-				Gateway::sendToGroup($room['roomid']);
+
+				$json_obj = array();
+				$json_obj['ret'] = 0;
+				$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
+				$json_obj['data'] = array(
+					'status' => $fsm['status'],
+					'endst' =>  $fsm['nextst'],
+					'cards' => $this->makeDealCard($fsm,2,$roomid)
+				);
+				Gateway::sendToGroup($roomid,json_encode($json_obj));
 			}
 			elseif($fsm['status'] == 'betting')
 			{
 				if($fsm['nextst'] >= time()){
 					$fsm['status'] = 'finish';
 					$fsm['nextst'] = time() + 5;
-					Gateway::sendToGroup($room['roomid']);
+
+					$json_obj = array();
+					$json_obj['ret'] = 0;
+					$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
+					$json_obj['data'] = array(
+						'status' => $fsm['status'],
+						'endst' =>  $fsm['nextst'],
+						'cards' => $this->makeDealCard($fsm,3,$roomid)
+					);
+					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
 			}
 			elseif($fsm['status'] == 'finish')
 			{
 				if($fsm['nextst'] >= time()){
 					$fsm['status'] = 'idle';
-					$fsm['nextst'] = time() + 5;
-					Gateway::sendToGroup($room['roomid']);
+
+					$json_obj = array();
+					$json_obj['ret'] = 0;
+					$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
+					$json_obj['data'] = array(
+						'status' => $fsm['status'],
+						'endst' =>  $fsm['nextst']
+					);
+					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
 			}
 		}
 	}
 
-	public function makeSyncGame($client_id)
+	public function makeSyncGame($json_obj,$client_id)
 	{
-		$json_obj = array();
 		$room = LobbyMgr::GetInstance()->getRoomByClientId($client_id);
 		$fsm = null;
 		if($room != null){
-			if(array_key_exists($room['roomid'] ,$_fsmDic)){
+			if(array_key_exists($room['roomid'] ,$this->_fsmDic)){
 
 				$fsm = $this->_fsmDic[$room['roomid']];
 
@@ -103,12 +147,12 @@ class NiuNiuMgr
 
 		$json_obj['ret'] = 0;
 		$json_obj['data'] = $fsm;
+		$json_obj['msgid'] = MsgIds::NiuNiu_SyncGame;
 		Gateway::sendToGroup($room['roomid'],json_encode($json_obj));
 	}
 
-	public function makeSetPos($client_id,$pos,$target_seatIdx)
+	public function makeSetPos($json_obj,$client_id,$pos,$target_seatIdx)
 	{
-		$json_obj = array();
 		$room = LobbyMgr::GetInstance()->getRoomByClientId($client_id);
 		if($room){
 
@@ -189,6 +233,9 @@ class NiuNiuMgr
 				'client_id'	=>	$client_id,
 				'pos'		=>	$pos
 			);
+
+			var_dump($room);
+
 			Gateway::sendToGroup($room['roomid'],json_encode($json_obj));
 		}else{
 			$json_obj['ret'] = 1;
@@ -197,13 +244,13 @@ class NiuNiuMgr
 		}
 	}
 
-	public function makeDealCard($client_id)
+	public function makeDealCard($pokers,$deal_num,$roomid)
 	{
 		$json_obj = array();
 		$room = LobbyMgr::GetInstance()->getRoomByClientId($client_id);
 		if($room){
 
 		}
-	}	
+	}
 }
 

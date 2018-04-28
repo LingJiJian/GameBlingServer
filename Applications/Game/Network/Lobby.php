@@ -23,31 +23,42 @@ class Lobby
 			if(empty($message_data->{"param"}->{'gameid'})){
 				$json_obj['ret'] = 1;
 				$json_obj['msg'] = "参数有误！";
+				Gateway::sendToCurrentClient(json_encode($json_obj));
+				return;
 			}else{
 				$result = LobbyMgr::GetInstance()->makeCreateRoom($message_data->{"param"},$client_id);
 			}
+			var_dump($result[1]);
 			$json_obj['ret'] = $result[0];
 			$json_obj['data'] = $result[1];
 			Gateway::sendToCurrentClient(json_encode($json_obj));
 
-			require_once __DIR__ . sprintf('/Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
-        		eval(sprintf("%s::makeSyncGame(\$client_id);",$client_id));
+			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
+        		eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
+        			$message_data->{"param"}->{'gameid'},
+        			$json_obj,
+        			$client_id));
 		}
 		elseif($msgid == MsgIds::Lobby_JoinRoom)
 		{
-			if(empty($message_data->{"roomid"}) || empty($message_data->{"param"}->{'gameid'})){
+			if(empty($message_data->{"param"}->{"roomid"}) || empty($message_data->{"param"}->{'gameid'})){
 				$json_obj['ret'] = 1;
 				$json_obj['msg'] = "参数有误！";
+				Gateway::sendToCurrentClient(json_encode($json_obj));
+				return;
 			}else{
-				$result = LobbyMgr::GetInstance()->makeJoinRoom($message_data,$client_id);
+				$result = LobbyMgr::GetInstance()->makeJoinRoom($message_data->{"param"},$client_id);
 			}
 			$json_obj['ret'] = $result[0];
 			$json_obj['data'] = $result[1];
 			$json_obj['msg'] = $result[2];
 			Gateway::sendToCurrentClient(json_encode($json_obj));
 
-			require_once __DIR__ . sprintf('/Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
-        		eval(sprintf("%s::makeSyncGame(\$client_id);",$client_id));
+			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
+        		eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
+        			$message_data->{"param"}->{'gameid'},
+        			$json_obj,
+        			$client_id));
 		}
 		elseif($msgid == MsgIds::Lobby_LeaveRoom)
 		{

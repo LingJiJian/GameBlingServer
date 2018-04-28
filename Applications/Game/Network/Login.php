@@ -1,6 +1,7 @@
 <?php
 
 require_once __DIR__ . '/../Common/MsgIds.php';
+require_once __DIR__ . '/../Module/LoginMgr.php';
 
 use \GatewayWorker\Lib\Gateway;
 
@@ -22,12 +23,7 @@ class Login
 				$json_obj['ret'] = 1;
 				$json_obj['msg'] = "参数有误！";
 			}else{
-				$json_obj['ret'] = 0;
-				$data = array();
-				$data['nickname'] = "";
-				$data['level'] = 1;
-				$data['coin'] = 100;
-				$json_obj['data'] = $data;
+				$json_obj = LoginMgr::GetInstance()->makeLoginClient($json_obj,$client_id,$message_data->{"account"});
 			}
 		}
 

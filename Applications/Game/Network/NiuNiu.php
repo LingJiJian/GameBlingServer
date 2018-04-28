@@ -20,20 +20,18 @@ class NiuNiu
 		$result = array(999,'');
 		if($msgid == MsgIds::NiuNiu_SetPos)
 		{
-			NiuNiuMgr::GetInstance()->makeSetPos($client_id,
+			NiuNiuMgr::GetInstance()->makeSetPos(
+				$json_obj,
+				$client_id,
 				$message_data->{"param"}->{'pos'},
 				$message_data->{'param'}->{'target_seatidx'});
 		}
-		// elseif($msgid == MsgIds::NiuNiu_Deal)
-		// {
-		// 	// NiuNiuMgr::GetInstance()->make
-		// }
 	}
 
-	public static function SendDealCard($client_ids)
-	{
-		NiuNiuMgr::GetInstance()->makeDealCard($client_ids);
+	// public static function SendDealCard($client_ids)
+	// {
+	// 	// NiuNiuMgr::GetInstance()->makeDealCard($client_ids);
 		
-		// Gateway::
-	}
+	// 	// Gateway::
+	// }
 }
