@@ -41,13 +41,14 @@ class LobbyMgr
 			$places[$i + 1] = null;
 		}
 
-		$places[1] = new EntityVo();
-		$places[1]->seatIdx		=	1;
-		$places[1]->status		=	'idle';
-		$places[1]->client_id	= 	$client_id;
-		$places[1]->pos 			= 	'watcher';
+		$places[1] = array(
+			'seatIdx'	=>	1,
+			'status'		=>	'idle',
+			'client_id'	=> 	$client_id,
+			'pos' 		=> 	'watcher',
+		);
 
-		$this->_roomDic[$ret['roomid']] = new EntityVo();
+		$this->_roomDic[$ret['roomid']] = array(
 			'roomid'			=> 	$ret['roomid'],
 			'gameid'			=>	$param->{'gameid'},
 			'createtime'		=>	$ret['createtime'],
@@ -77,11 +78,12 @@ class LobbyMgr
 				return array(1,$ret,"房间满人了!");
 			}else{
 				echo "-------- seatIdx " . $seatIdx ;
-				$room['places'][$seatIdx] = new EntityVo();
-				$room['places'][$seatIdx]->seatIdx	= $seatIdx;
-				$room['places'][$seatIdx]->status		= 'idle';
-				$room['places'][$seatIdx]->client_id	= $client_id;
-				$room['places'][$seatIdx]->pos		= 'watcher';
+				$room['places'][$seatIdx] = array(
+					'seatIdx'	=>	$seatIdx,
+					'status'		=>	'idle',
+					'client_id'	=> 	$client_id,
+					'pos'		=>	'watcher'
+				);
 			}
 			return array(0,$room,'');
 		}else{
