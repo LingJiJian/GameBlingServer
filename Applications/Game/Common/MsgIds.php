@@ -8,9 +8,8 @@ class MsgIds {
 	const Lobby_LeaveRoom = 'rspLeaveRoom';
 
 	const NiuNiu_SetPos = 'rspNiuNiuSetPos';
-	const NiuNiu_Deal = 'rspNiuNiuDeal';
+	const NiuNiu_Bet = 'rspNiuNiuBet';
 	const NiuNiu_Update = 'rspNiuNiuUpdate';
 	const NiuNiu_SyncGame = 'rspNiuNiuSyncGame';
-	const NiuNiu_Leave = 'rspNiuNiuLeave';
 
 }

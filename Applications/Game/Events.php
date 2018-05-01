@@ -21,6 +21,7 @@
 
 require_once __DIR__ . '/Module/NiuNiuMgr.php';
 require_once __DIR__ . '/Module/LoginMgr.php';
+require_once __DIR__ . '/Module/LobbyMgr.php';
 
 use \GatewayWorker\Lib\Gateway;
 use \Workerman\Lib\Timer;
@@ -81,5 +82,6 @@ class Events
        // 向所有人发送 
        // GateWay::sendToAll("$client_id logout");
       LoginMgr::GetInstance()->onClose($client_id);
+      LobbyMgr::GetInstance()->onClose($client_id);
    }
 }

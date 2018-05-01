@@ -26,12 +26,13 @@ class NiuNiu
 				$message_data->{"param"}->{'pos'},
 				$message_data->{'param'}->{'target_seatidx'});
 		}
+		elseif($MsgIds == MsgIds::rspNiuNiuBet)
+		{
+			NiuNiuMgr::GetInstance()->makeSetBet(
+				$json_obj,
+				$client_id,
+				$message_data->{"param"}->{'betidx'},
+				$message_data->{"param"}->{'betnum'});
+		}
 	}
-
-	// public static function SendDealCard($client_ids)
-	// {
-	// 	// NiuNiuMgr::GetInstance()->makeDealCard($client_ids);
-		
-	// 	// Gateway::
-	// }
 }

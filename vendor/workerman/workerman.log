@@ -2175,3 +2175,659 @@ Stack trace:
 2018-04-28 17:35:39 pid:18098 worker[GameBusinessWorker:18099] exit with status 65280
 2018-04-28 18:12:26 pid:18098 Workerman[start.php] stopping ...
 2018-04-28 18:12:26 pid:18098 Workerman[start.php] has been stopped
+2018-04-28 21:45:49 pid:74198 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:57:15 pid:74198 Workerman[start.php] stopping ...
+2018-04-28 21:57:15 pid:74198 Workerman[start.php] has been stopped
+2018-04-28 21:57:17 pid:74244 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:57:29 pid:74244 Workerman[start.php] stopping ...
+2018-04-28 21:57:29 pid:74244 Workerman[start.php] has been stopped
+2018-04-28 21:57:30 pid:74263 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:58:13 pid:74263 Workerman[start.php] stopping ...
+2018-04-28 21:58:13 pid:74263 Workerman[start.php] has been stopped
+2018-04-28 21:58:26 pid:74309 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:58:35 pid:74309 Workerman[start.php] stopping ...
+2018-04-28 21:58:35 pid:74309 Workerman[start.php] has been stopped
+2018-04-28 21:59:22 pid:74350 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:59:37 pid:74350 Workerman[start.php] stopping ...
+2018-04-28 21:59:37 pid:74350 Workerman[start.php] has been stopped
+2018-04-28 21:59:37 pid:74374 Workerman[start.php] start in DEBUG mode
+2018-04-28 21:59:46 pid:74374 Workerman[start.php] stopping ...
+2018-04-28 21:59:46 pid:74374 Workerman[start.php] has been stopped
+2018-04-28 22:00:35 pid:74421 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:00:37 pid:74421 Workerman[start.php] stopping ...
+2018-04-28 22:00:37 pid:74421 Workerman[start.php] has been stopped
+2018-04-28 22:02:54 pid:74494 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:02:56 pid:74494 Workerman[start.php] stopping ...
+2018-04-28 22:02:56 pid:74494 Workerman[start.php] has been stopped
+2018-04-28 22:02:56 pid:74507 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:03:03 pid:74507 Workerman[start.php] stopping ...
+2018-04-28 22:03:03 pid:74507 Workerman[start.php] has been stopped
+2018-04-28 22:04:33 pid:74534 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:04:52 pid:74534 Workerman[start.php] stopping ...
+2018-04-28 22:04:52 pid:74534 Workerman[start.php] has been stopped
+2018-04-28 22:04:53 pid:74571 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:06:44 pid:74571 Workerman[start.php] stopping ...
+2018-04-28 22:06:44 pid:74571 Workerman[start.php] has been stopped
+2018-04-28 22:06:45 pid:74608 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:07:08 pid:74608 Workerman[start.php] stopping ...
+2018-04-28 22:07:08 pid:74608 Workerman[start.php] has been stopped
+2018-04-28 22:07:08 pid:74640 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:07:24 pid:74640 Workerman[start.php] stopping ...
+2018-04-28 22:07:24 pid:74640 Workerman[start.php] has been stopped
+2018-04-28 22:07:24 pid:74663 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:07:31 pid:74663 Workerman[start.php] stopping ...
+2018-04-28 22:07:31 pid:74663 Workerman[start.php] has been stopped
+2018-04-28 22:07:31 pid:74686 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:07:40 pid:74686 Workerman[start.php] stopping ...
+2018-04-28 22:07:40 pid:74686 Workerman[start.php] has been stopped
+2018-04-28 22:07:40 pid:74711 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:08:37 pid:74711 Workerman[start.php] stopping ...
+2018-04-28 22:08:37 pid:74711 Workerman[start.php] has been stopped
+2018-04-28 22:08:38 pid:74744 Workerman[start.php] start in DEBUG mode
+2018-04-28 22:08:40 pid:74744 Workerman[start.php] stopping ...
+2018-04-28 22:08:40 pid:74744 Workerman[start.php] has been stopped
+2018-04-28 23:13:53 pid:75345 Workerman[start.php] start in DEBUG mode
+2018-04-28 23:14:03 pid:75345 Workerman[start.php] stopping ...
+2018-04-28 23:14:03 pid:75345 Workerman[start.php] has been stopped
+2018-04-28 23:14:32 pid:75369 Workerman[start.php] start in DEBUG mode
+2018-04-28 23:14:52 pid:75369 Workerman[start.php] stopping ...
+2018-04-28 23:14:52 pid:75369 Workerman[start.php] has been stopped
+2018-04-28 23:14:52 pid:75394 Workerman[start.php] start in DEBUG mode
+2018-04-28 23:15:10 pid:75394 Workerman[start.php] stopping ...
+2018-04-28 23:15:11 pid:75394 Workerman[start.php] has been stopped
+2018-04-28 23:15:11 pid:75411 Workerman[start.php] start in DEBUG mode
+2018-04-28 23:16:00 pid:75411 Workerman[start.php] stopping ...
+2018-04-28 23:16:00 pid:75411 Workerman[start.php] has been stopped
+2018-04-28 23:20:11 pid:75507 Workerman[start.php] start in DEBUG mode
+2018-04-28 23:20:23 pid:75507 Workerman[start.php] stopping ...
+2018-04-28 23:20:23 pid:75507 Workerman[start.php] has been stopped
+2018-04-29 00:14:50 pid:76023 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:15:43 pid:76023 Workerman[start.php] stopping ...
+2018-04-29 00:15:43 pid:76023 Workerman[start.php] has been stopped
+2018-04-29 00:16:22 pid:76044 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:16:34 pid:76045 Error: Call to a member function getData() on null in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LoginMgr.php:41
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Login.php(26): LoginMgr->makeLoginClient(Array, '7f0000010b54000...', 'a001')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Login::onMessage('7f0000010b54000...', '{"msgid":"rspLo...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#3 [internal function]: Events::onMessage('7f0000010b54000...', '{"msgid":"rspLo...')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"msgid":"rspLo...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#15 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#16 {main}
+2018-04-29 00:16:34 pid:76045 Worker process terminated
+2018-04-29 00:16:34 pid:76044 worker[GameBusinessWorker:76045] exit with status 64000
+2018-04-29 00:16:50 pid:76044 Workerman[start.php] stopping ...
+2018-04-29 00:16:50 pid:76044 Workerman[start.php] has been stopped
+2018-04-29 00:18:55 pid:76082 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:19:28 pid:76083 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:137
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:19:28 pid:76083 Worker process terminated
+2018-04-29 00:19:28 pid:76082 worker[GameBusinessWorker:76083] exit with status 64000
+2018-04-29 00:19:48 pid:76082 Workerman[start.php] stopping ...
+2018-04-29 00:19:48 pid:76082 Workerman[start.php] has been stopped
+2018-04-29 00:21:57 pid:76129 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:22:05 pid:76130 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:138
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:22:05 pid:76130 Worker process terminated
+2018-04-29 00:22:05 pid:76129 worker[GameBusinessWorker:76130] exit with status 64000
+2018-04-29 00:25:12 pid:76129 Workerman[start.php] stopping ...
+2018-04-29 00:25:12 pid:76129 Workerman[start.php] has been stopped
+2018-04-29 00:25:14 pid:76193 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:25:21 pid:76194 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:139
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:25:21 pid:76194 Worker process terminated
+2018-04-29 00:25:21 pid:76193 worker[GameBusinessWorker:76194] exit with status 64000
+2018-04-29 00:25:48 pid:76193 Workerman[start.php] stopping ...
+2018-04-29 00:25:48 pid:76193 Workerman[start.php] has been stopped
+2018-04-29 00:25:49 pid:76218 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:25:56 pid:76221 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:138
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:25:56 pid:76221 Worker process terminated
+2018-04-29 00:25:56 pid:76218 worker[GameBusinessWorker:76221] exit with status 64000
+2018-04-29 00:27:55 pid:76218 Workerman[start.php] stopping ...
+2018-04-29 00:27:55 pid:76218 Workerman[start.php] has been stopped
+2018-04-29 00:27:56 pid:76264 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:28:05 pid:76268 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:139
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:28:05 pid:76268 Worker process terminated
+2018-04-29 00:28:05 pid:76264 worker[GameBusinessWorker:76268] exit with status 64000
+2018-04-29 00:29:14 pid:76264 Workerman[start.php] stopping ...
+2018-04-29 00:29:14 pid:76264 Workerman[start.php] has been stopped
+2018-04-29 00:31:06 pid:76314 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:31:59 pid:76314 Workerman[start.php] stopping ...
+2018-04-29 00:31:59 pid:76316 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LoginMgr.php:48
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(83): LoginMgr->onClose('7f0000010b54000...')
+#1 [internal function]: Events::onClose('7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(390): call_user_func('Events::onClose', '7f0000010b54000...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#13 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#14 {main}
+2018-04-29 00:31:59 pid:76316 Worker process terminated
+2018-04-29 00:31:59 pid:76314 worker[GameBusinessWorker:76316] exit with status 64000
+2018-04-29 00:31:59 pid:76314 Workerman[start.php] has been stopped
+2018-04-29 00:32:00 pid:76334 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:32:07 pid:76335 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:139
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:32:07 pid:76335 Worker process terminated
+2018-04-29 00:32:07 pid:76334 worker[GameBusinessWorker:76335] exit with status 64000
+2018-04-29 00:32:43 pid:76334 Workerman[start.php] stopping ...
+2018-04-29 00:32:43 pid:76334 Workerman[start.php] has been stopped
+2018-04-29 00:32:44 pid:76361 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:32:50 pid:76362 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:139
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:32:50 pid:76362 Worker process terminated
+2018-04-29 00:32:51 pid:76361 worker[GameBusinessWorker:76362] exit with status 64000
+2018-04-29 00:37:33 pid:76361 Workerman[start.php] stopping ...
+2018-04-29 00:37:33 pid:76361 Workerman[start.php] has been stopped
+2018-04-29 00:37:34 pid:76421 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:37:41 pid:76422 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:140
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php(132): LobbyMgr->getRoomByClientId('7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#5 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#7 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#9 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#16 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#17 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#18 {main}
+2018-04-29 00:37:41 pid:76422 Worker process terminated
+2018-04-29 00:37:41 pid:76421 worker[GameBusinessWorker:76422] exit with status 64000
+2018-04-29 00:39:45 pid:76421 Workerman[start.php] stopping ...
+2018-04-29 00:39:45 pid:76421 Workerman[start.php] has been stopped
+2018-04-29 00:39:46 pid:76536 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:39:52 pid:76537 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:135
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40) : eval()'d code(1): NiuNiuMgr->makeSyncGame(Array, '7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(40): eval()
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#3 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(73): eval()
+#4 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#6 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#8 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#16 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#17 {main}
+2018-04-29 00:39:52 pid:76537 Worker process terminated
+2018-04-29 00:39:52 pid:76536 worker[GameBusinessWorker:76537] exit with status 64000
+2018-04-29 00:44:54 pid:76536 Workerman[start.php] stopping ...
+2018-04-29 00:44:54 pid:76536 Workerman[start.php] has been stopped
+2018-04-29 00:44:54 pid:76648 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:44:54 pid:76649 ParseError: syntax error, unexpected '$fsm' (T_VARIABLE) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:143
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#11 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#12 {main}
+2018-04-29 00:44:55 pid:76649 Worker process terminated
+2018-04-29 00:44:55 pid:76648 worker[GameBusinessWorker:76649] exit with status 64000
+2018-04-29 00:44:55 pid:76652 ParseError: syntax error, unexpected '$fsm' (T_VARIABLE) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:143
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#13 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#14 {main}
+2018-04-29 00:44:56 pid:76652 Worker process terminated
+2018-04-29 00:44:56 pid:76648 worker[GameBusinessWorker:76652] exit with status 64000
+2018-04-29 00:44:57 pid:76654 ParseError: syntax error, unexpected '$fsm' (T_VARIABLE) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:143
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#13 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#14 {main}
+2018-04-29 00:44:57 pid:76648 Workerman[start.php] stopping ...
+2018-04-29 00:44:57 pid:76654 Worker process terminated
+2018-04-29 00:44:57 pid:76648 worker[GameBusinessWorker:76654] exit with status 64000
+2018-04-29 00:44:57 pid:76648 Workerman[start.php] has been stopped
+2018-04-29 00:45:23 pid:76673 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:46:40 pid:76673 Workerman[start.php] stopping ...
+2018-04-29 00:46:40 pid:76674 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LoginMgr.php:48
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(83): LoginMgr->onClose('7f0000010b54000...')
+#1 [internal function]: Events::onClose('7f0000010b54000...')
+#2 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(390): call_user_func('Events::onClose', '7f0000010b54000...')
+#3 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#13 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#14 {main}
+2018-04-29 00:46:40 pid:76674 Worker process terminated
+2018-04-29 00:46:40 pid:76673 worker[GameBusinessWorker:76674] exit with status 64000
+2018-04-29 00:46:40 pid:76673 Workerman[start.php] has been stopped
+2018-04-29 00:48:43 pid:76715 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:49:21 pid:76715 Workerman[start.php] stopping ...
+2018-04-29 00:49:21 pid:76715 Workerman[start.php] has been stopped
+2018-04-29 00:57:16 pid:76778 Workerman[start.php] start in DEBUG mode
+2018-04-29 00:57:48 pid:76778 Workerman[start.php] stopping ...
+2018-04-29 00:57:48 pid:76778 Workerman[start.php] has been stopped
+2018-04-29 01:00:40 pid:76820 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:02:10 pid:76820 Workerman[start.php] stopping ...
+2018-04-29 01:02:10 pid:76820 Workerman[start.php] has been stopped
+2018-04-29 01:03:16 pid:76852 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:03:29 pid:76852 Workerman[start.php] stopping ...
+2018-04-29 01:03:29 pid:76852 Workerman[start.php] has been stopped
+2018-04-29 01:04:42 pid:76888 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:05:16 pid:76888 Workerman[start.php] stopping ...
+2018-04-29 01:05:16 pid:76888 Workerman[start.php] has been stopped
+2018-04-29 01:08:55 pid:76958 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:12:41 pid:76958 Workerman[start.php] stopping ...
+2018-04-29 01:12:41 pid:76960 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 01:12:43 pid:76960 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 01:12:44 pid:76958 Workerman[start.php] has been stopped
+2018-04-29 01:12:50 pid:77100 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:13:18 pid:77100 Workerman[start.php] stopping ...
+2018-04-29 01:13:18 pid:77100 Workerman[start.php] has been stopped
+2018-04-29 01:14:21 pid:77160 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:14:21 pid:77161 ParseError: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:92
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(22): require_once()
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once('/home/lingjijia...')
+#2 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#3 [internal function]: spl_autoload_call('Events')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#13 {main}
+2018-04-29 01:14:22 pid:77161 Worker process terminated
+2018-04-29 01:14:22 pid:77160 worker[GameBusinessWorker:77161] exit with status 64000
+2018-04-29 01:14:22 pid:77164 ParseError: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:92
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(22): require_once()
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once('/home/lingjijia...')
+#2 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#3 [internal function]: spl_autoload_call('Events')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#14 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#15 {main}
+2018-04-29 01:14:23 pid:77164 Worker process terminated
+2018-04-29 01:14:23 pid:77160 worker[GameBusinessWorker:77164] exit with status 64000
+2018-04-29 01:14:23 pid:77167 ParseError: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:92
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(22): require_once()
+#1 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once('/home/lingjijia...')
+#2 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#3 [internal function]: spl_autoload_call('Events')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#14 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#15 {main}
+2018-04-29 01:14:23 pid:77160 Workerman[start.php] stopping ...
+2018-04-29 01:14:23 pid:77167 Worker process terminated
+2018-04-29 01:14:23 pid:77160 worker[GameBusinessWorker:77167] exit with status 64000
+2018-04-29 01:14:23 pid:77160 Workerman[start.php] has been stopped
+2018-04-29 01:14:49 pid:77180 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:15:12 pid:77180 Workerman[start.php] stopping ...
+2018-04-29 01:15:12 pid:77180 Workerman[start.php] has been stopped
+2018-04-29 01:18:27 pid:77214 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:19:25 pid:77214 Workerman[start.php] stopping ...
+2018-04-29 01:19:25 pid:77214 Workerman[start.php] has been stopped
+2018-04-29 01:23:04 pid:77248 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:23:32 pid:77248 Workerman[start.php] stopping ...
+2018-04-29 01:23:32 pid:77248 Workerman[start.php] has been stopped
+2018-04-29 01:30:47 pid:77390 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:31:13 pid:77390 Workerman[start.php] stopping ...
+2018-04-29 01:31:13 pid:77390 Workerman[start.php] has been stopped
+2018-04-29 01:33:48 pid:77440 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:34:12 pid:77440 Workerman[start.php] stopping ...
+2018-04-29 01:34:12 pid:77440 Workerman[start.php] has been stopped
+2018-04-29 01:40:27 pid:77554 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:40:52 pid:77554 Workerman[start.php] stopping ...
+2018-04-29 01:40:52 pid:77554 Workerman[start.php] has been stopped
+2018-04-29 01:50:20 pid:77718 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:50:56 pid:77718 Workerman[start.php] stopping ...
+2018-04-29 01:50:56 pid:77718 Workerman[start.php] has been stopped
+2018-04-29 01:52:21 pid:77759 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:52:41 pid:77759 Workerman[start.php] stopping ...
+2018-04-29 01:52:42 pid:77759 Workerman[start.php] has been stopped
+2018-04-29 01:56:21 pid:77782 Workerman[start.php] start in DEBUG mode
+2018-04-29 01:58:00 pid:77782 Workerman[start.php] stopping ...
+2018-04-29 01:58:00 pid:77784 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 01:58:00 pid:77784 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 01:58:00 pid:77782 Workerman[start.php] has been stopped
+2018-04-29 02:06:43 pid:77913 Workerman[start.php] start in DEBUG mode
+2018-04-29 02:08:27 pid:77913 Workerman[start.php] stopping ...
+2018-04-29 02:08:27 pid:77915 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 02:08:27 pid:77915 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 02:08:27 pid:77913 Workerman[start.php] has been stopped
+2018-04-29 02:20:58 pid:78190 Workerman[start.php] start in DEBUG mode
+2018-04-29 02:22:28 pid:78190 Workerman[start.php] stopping ...
+2018-04-29 02:22:28 pid:78192 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 02:22:28 pid:78192 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 02:22:28 pid:78190 Workerman[start.php] has been stopped
+2018-04-29 03:03:05 pid:78396 Workerman[start.php] start in DEBUG mode
+2018-04-29 03:05:07 pid:78396 Workerman[start.php] stopping ...
+2018-04-29 03:05:07 pid:78396 Workerman[start.php] has been stopped
+2018-04-29 03:06:11 pid:78425 Workerman[start.php] start in DEBUG mode
+2018-04-29 03:07:31 pid:78425 Workerman[start.php] stopping ...
+2018-04-29 03:07:31 pid:78427 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 03:07:31 pid:78427 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-04-29 03:07:31 pid:78425 Workerman[start.php] has been stopped
+2018-04-30 00:29:59 pid:79319 Workerman[start.php] start in DEBUG mode
+2018-04-30 00:32:58 pid:79319 Workerman[start.php] stopping ...
+2018-04-30 00:32:58 pid:79319 Workerman[start.php] has been stopped
+2018-04-30 00:53:13 pid:79667 Workerman[start.php] start in DEBUG mode
+2018-04-30 00:57:07 pid:79667 Workerman[start.php] stopping ...
+2018-04-30 00:57:07 pid:79667 Workerman[start.php] has been stopped
+2018-04-30 00:57:08 pid:79714 Workerman[start.php] start in DEBUG mode
+2018-04-30 00:59:59 pid:79714 Workerman[start.php] stopping ...
+2018-04-30 00:59:59 pid:79714 Workerman[start.php] has been stopped
+2018-04-30 01:00:00 pid:79776 Workerman[start.php] start in DEBUG mode
+2018-04-30 01:00:21 pid:79776 Workerman[start.php] stopping ...
+2018-04-30 01:00:21 pid:79776 Workerman[start.php] has been stopped
+2018-04-30 01:00:59 pid:79806 Workerman[start.php] start in DEBUG mode
+2018-04-30 01:01:14 pid:79806 Workerman[start.php] stopping ...
+2018-04-30 01:01:14 pid:79806 Workerman[start.php] has been stopped
+2018-04-30 01:02:52 pid:79836 Workerman[start.php] start in DEBUG mode
+2018-04-30 01:03:03 pid:79837 Error: Cannot assign by reference to overloaded object in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:53
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(29): LobbyMgr->makeCreateRoom(Object(stdClass), '7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(74) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(74): eval()
+#3 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#15 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#16 {main}
+2018-04-30 01:03:03 pid:79837 Worker process terminated
+2018-04-30 01:03:03 pid:79836 worker[GameBusinessWorker:79837] exit with status 64000
+2018-04-30 01:03:08 pid:79836 Workerman[start.php] stopping ...
+2018-04-30 01:03:08 pid:79836 Workerman[start.php] has been stopped
+2018-04-30 07:15:03 pid:80324 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:15:25 pid:80324 Workerman[start.php] stopping ...
+2018-04-30 07:15:25 pid:80324 Workerman[start.php] has been stopped
+2018-04-30 07:19:18 pid:80380 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:20:37 pid:80380 Workerman[start.php] stopping ...
+2018-04-30 07:20:37 pid:80380 Workerman[start.php] has been stopped
+2018-04-30 07:21:40 pid:80443 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:24:53 pid:80443 Workerman[start.php] stopping ...
+2018-04-30 07:24:53 pid:80445 SendBufferToWorker fail. May be the send buffer are overflow. See http://wiki.workerman.net/Error2 for detail
+2018-04-30 07:24:53 pid:80443 Workerman[start.php] has been stopped
+2018-04-30 07:24:54 pid:80497 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:25:32 pid:80497 Workerman[start.php] stopping ...
+2018-04-30 07:25:32 pid:80497 Workerman[start.php] has been stopped
+2018-04-30 07:25:33 pid:80512 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:27:41 pid:80512 Workerman[start.php] stopping ...
+2018-04-30 07:27:41 pid:80512 Workerman[start.php] has been stopped
+2018-04-30 07:27:42 pid:80537 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:30:52 pid:80537 Workerman[start.php] stopping ...
+2018-04-30 07:30:52 pid:80537 Workerman[start.php] has been stopped
+2018-04-30 07:30:52 pid:80593 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:32:36 pid:80593 Workerman[start.php] stopping ...
+2018-04-30 07:32:36 pid:80593 Workerman[start.php] has been stopped
+2018-04-30 07:32:37 pid:80619 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:33:07 pid:80619 Workerman[start.php] stopping ...
+2018-04-30 07:33:07 pid:80619 Workerman[start.php] has been stopped
+2018-04-30 07:37:15 pid:81018 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:37:25 pid:81019 Error: Cannot use object of type EntityVo as array in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/LobbyMgr.php:39
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/Lobby.php(29): LobbyMgr->makeCreateRoom(Object(stdClass), '7f0000010b54000...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(74) : eval()'d code(1): Lobby::onMessage('7f0000010b54000...', '{"param":{"game...')
+#2 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(74): eval()
+#3 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":{"game...')
+#4 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":{"game...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#15 /home/lingjijian/workspace/GameblingServer/start.php(41): Workerman\Worker::runAll()
+#16 {main}
+2018-04-30 07:37:25 pid:81019 Worker process terminated
+2018-04-30 07:37:25 pid:81018 worker[GameBusinessWorker:81019] exit with status 64000
+2018-04-30 07:38:14 pid:81018 Workerman[start.php] stopping ...
+2018-04-30 07:38:14 pid:81018 Workerman[start.php] has been stopped
+2018-04-30 07:40:38 pid:81139 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:41:36 pid:81139 Workerman[start.php] stopping ...
+2018-04-30 07:41:36 pid:81139 Workerman[start.php] has been stopped
+2018-04-30 07:44:27 pid:81179 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:45:02 pid:81179 Workerman[start.php] stopping ...
+2018-04-30 07:45:02 pid:81179 Workerman[start.php] has been stopped
+2018-04-30 07:45:22 pid:81205 Workerman[start.php] start in DEBUG mode
+2018-04-30 07:46:09 pid:81205 Workerman[start.php] stopping ...
+2018-04-30 07:46:09 pid:81205 Workerman[start.php] has been stopped

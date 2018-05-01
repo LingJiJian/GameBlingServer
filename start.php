@@ -33,5 +33,9 @@ foreach(glob(__DIR__.'/Applications/*/start*.php') as $start_file)
 {
     require_once $start_file;
 }
+
+require_once __DIR__ . '/Applications/Game/Entity/EntityVo.php';
+
+
 // 运行所有服务
 Worker::runAll();

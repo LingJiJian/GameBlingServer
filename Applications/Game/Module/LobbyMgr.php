@@ -2,6 +2,7 @@
 
 require_once __DIR__ . '/../Common/GameConfig.php';
 require_once __DIR__ . '/../Common/Util.php';
+require_once __DIR__ . '/../Entity/EntityVo.php';
 
 use \GatewayWorker\Lib\Gateway;
 
@@ -30,10 +31,7 @@ class LobbyMgr
 
 	public function makeCreateRoom($param,$client_id){
 
-		$ret = array();
-		$ret['roomid'] = $this->_createRoomId();
-		$ret['createtime'] = time();
-		$ret['gameid'] = $param->{'gameid'};
+		$roomid = $this->_createRoomId();
 
 		$placeLimit = GameConfig::$gameDefs[$param->{'gameid'}]['limit'];
 		$places = array();
@@ -41,24 +39,25 @@ class LobbyMgr
 			$places[$i + 1] = null;
 		}
 
-		$places[1] = array(
-			'seatIdx'	=>	1,
-			'status'		=>	'idle',
-			'client_id'	=> 	$client_id,
-			'pos' 		=> 	'watcher',
-		);
+		$persion = new EntityVo();
+		$persion->seatIdx 	= 1;
+		$persion->status 	= 'idle';
+		$persion->client_id	= $client_id;
+		$persion->pos 		= 'watcher';
+		$places[1] = $persion;
 
-		$this->_roomDic[$ret['roomid']] = array(
-			'roomid'			=> 	$ret['roomid'],
-			'gameid'			=>	$param->{'gameid'},
-			'createtime'		=>	$ret['createtime'],
-			'places'			=>	$places,
-			'placeLimit' 	=>	$placeLimit,
-			'status'			=> 	'idle'
-		);
-		Gateway::joinGroup($client_id,$ret['roomid']);
+		$room = new EntityVo();
+		$room->roomid 	=	$roomid;
+		$room->gameid 	=	$param->{'gameid'};
+		$room->createtime =	time();
+		$room->places 	=	$places;
+		$room->placeLimit =	$placeLimit;
+		$room->status 	= 	'idle';
+		$this->_roomDic[$roomid] = $room;
 
-		return array(0,$ret);
+		Gateway::joinGroup($client_id,$roomid);
+
+		return array(0,$room->getData());
 	}
 
 	public function makeJoinRoom($param,$client_id)
@@ -67,8 +66,8 @@ class LobbyMgr
 		if(array_key_exists($param->{'roomid'}, $this->_roomDic)){
 			$room = $this->_roomDic[$param->{'roomid'}];
 			$seatIdx = -1;
-			foreach ($room['places'] as $key => $value) {
-				if($value == null){
+			foreach ($room->places as $key => $persion) {
+				if($persion == null){
 					$seatIdx = $key;
 					break;
 				}
@@ -77,15 +76,18 @@ class LobbyMgr
 			if($seatIdx == -1){
 				return array(1,$ret,"房间满人了!");
 			}else{
-				echo "-------- seatIdx " . $seatIdx ;
-				$room['places'][$seatIdx] = array(
-					'seatIdx'	=>	$seatIdx,
-					'status'		=>	'idle',
-					'client_id'	=> 	$client_id,
-					'pos'		=>	'watcher'
-				);
+
+
+				var_dump($room);
+
+				$persion = new EntityVo();
+				$persion->seatIdx =	$seatIdx;
+				$persion->status = 'idle';
+				$persion->client_id	= $client_id;
+				$persion->pos =	'watcher';
+				$room->places[$seatIdx] = $persion;
 			}
-			return array(0,$room,'');
+			return array(0,$room->getData(),'');
 		}else{
 			return array(1,$ret,"房间不存在!");
 		}
@@ -105,10 +107,11 @@ class LobbyMgr
 	{
 		$ret = array();
 		foreach ($this->_roomDic as $roomId => $roomObj) {
-			foreach ($roomObj['places'] as $seatIdx => $persion) {
-				if($persion['client_id'] == $client_id){
-					$roomObj['places'][$seatIdx] = null;
+			foreach ($roomObj->places as $seatIdx => $persion) {
+				if($persion && $persion->client_id == $client_id){
+					$roomObj->places[$seatIdx] = null;
 					$ret['roomid'] = $roomId;
+					$ret['gameid'] = $roomObj->gameid;
 					return array(0,$ret);
 				}
 			}
@@ -130,13 +133,38 @@ class LobbyMgr
 
 	public function getRoomByClientId($client_id)
 	{
+		// var_dump($this->_roomDic);
 		foreach ($this->_roomDic as $roomId => $roomObj) {
-			foreach ($roomObj['places'] as $seatIdx => $persion) {
-				if($persion['client_id'] == $client_id){
+			foreach ($roomObj->places as $seatIdx => $persion) {
+				if($persion && $persion->client_id == $client_id){
 					return $roomObj;
 				}
 			}
 		}
 		return null;
 	}
+
+	public function onClose($client_id)
+	{
+
+		foreach ($this->_roomDic as $roomId => $room) {
+			foreach ($room->places as $seatIdx => $persion) {
+				if($persion && $persion->client_id == $client_id){
+					$room->places[$seatIdx] = null;
+
+					$has_persion = false;
+					foreach ($room->places as $seatIdx => $persion) {
+						if($persion){
+							$has_persion = true;
+							break;
+						}
+					}
+					if(!$has_persion){
+						$this->_roomDic[$roomId] = null;
+					}
+				}
+			}
+		}
+	}
+
 }

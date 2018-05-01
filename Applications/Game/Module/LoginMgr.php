@@ -38,14 +38,14 @@ class LoginMgr
 		$client->coin = 100;
 		$client->client_id = $client_id;
 		$this->_clientDic[$account] = $client;
-		$json_obj['data'] = $data->getData();
+		$json_obj['data'] = $client->getData();
 		return $json_obj;
 	}
 
 	public function onClose($client_id)
 	{
 		foreach ($this->_clientDic as $account => $client) {
-			if($client['client_id'] == $client_id)
+			if($client && $client->client_id == $client_id)
 			{
 				$this->_clientDic[$account] = null;
 				break;

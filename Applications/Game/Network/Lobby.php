@@ -28,9 +28,12 @@ class Lobby
 			}else{
 				$result = LobbyMgr::GetInstance()->makeCreateRoom($message_data->{"param"},$client_id);
 			}
-			var_dump($result[1]);
+
 			$json_obj['ret'] = $result[0];
 			$json_obj['data'] = $result[1];
+
+			print_r('创建房间:' . $result[0]['roomid']);
+
 			Gateway::sendToCurrentClient(json_encode($json_obj));
 
 			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
@@ -55,10 +58,8 @@ class Lobby
 			Gateway::sendToCurrentClient(json_encode($json_obj));
 
 			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
-        		eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
-        			$message_data->{"param"}->{'gameid'},
-        			$json_obj,
-        			$client_id));
+        	eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
+        			$message_data->{"param"}->{'gameid'}));
 		}
 		elseif($msgid == MsgIds::Lobby_LeaveRoom)
 		{
@@ -67,9 +68,14 @@ class Lobby
 		
 			if($result[0] == 0){
 				$json_obj['data'] = $result[1];
-				$roomId = $result[1]['roomid'];
-				Gateway::sendToGroup($roomId,json_encode($json_obj));
-				Gateway::leaveGroup($client_id,$roomId);
+				$roomid = $result[1]['roomid'];
+				Gateway::sendToGroup($roomid,json_encode($json_obj));
+				Gateway::leaveGroup($client_id,$roomid);
+
+				$gameid = $result[1]['gameid'];
+				require_once __DIR__ . sprintf('/../Module/%sMgr.php',$gameid);
+				eval(sprintf("%sMgr::GetInstance()->makeLeftRoom(\$roomid);",$gameid));
+
 			}else{
 				$json_obj['msg'] = $result[1];
 				Gateway::sendToCurrentClient(json_encode($json_obj));

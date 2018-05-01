@@ -4,23 +4,18 @@ class EntityVo {
 
 	private $data = array();
 
+    // public $places = array();
+
 	public function __set($name,$value)
 	{
 		$this->data[$name] = $value;
 	}
 
-	public function __get($name)
+	public function &__get($name)
 	{
 		if (array_key_exists($name, $this->data)) {
             return $this->data[$name];
          }
-
-         // $trace = debug_backtrace();
-         // trigger_error(
-         //    'Undefined property via __get(): ' . $name .
-         //    ' in ' . $trace[0]['file'] .
-         //    ' on line ' . $trace[0]['line'],
-         //    E_USER_NOTICE);
          return null;
 	}
 
@@ -34,8 +29,30 @@ class EntityVo {
         unset($this->data[$name]);
     }
 
+    private function _getData(&$result,$arr)
+    {
+        foreach ($arr as $key => $value) {
+            if(is_array($value)){
+                $result[$key] = array();
+                $this->_getData($result[$key],$value);
+            }elseif(is_object($value)){
+                $result[$key] = $value->getData();
+            }else{
+                $result[$key] = $value;
+            }
+        }
+    }
+
     public function getData()
     {
-    		return $this->data;
+        $result = array();
+        $this->_getData($result,$this->data);
+        return $result;
+    }
+
+    public function insertArray(&$arr,$ikey,$ivalue)
+    {
+        $arr[$ikey] = $ivalue;
+        return $arr;
     }
 }
