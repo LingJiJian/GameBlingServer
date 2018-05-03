@@ -12,4 +12,5 @@ class MsgIds {
 	const NiuNiu_Update = 'rspNiuNiuUpdate';
 	const NiuNiu_SyncGame = 'rspNiuNiuSyncGame';
 
+	const Debug_Svr = 'rspSvrDebug';
 }

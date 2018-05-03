@@ -77,8 +77,7 @@ class LobbyMgr
 				return array(1,$ret,"房间满人了!");
 			}else{
 
-
-				var_dump($room);
+				// var_dump($room);
 
 				$persion = new EntityVo();
 				$persion->seatIdx =	$seatIdx;

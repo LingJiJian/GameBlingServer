@@ -36,7 +36,7 @@ class Events
     public static function onWorkerStart($worker){
         if($worker->id === 0){
 
-            echo "game server init";
+            echo "初始化游戏";
             Timer::add(1,function(){
                 NiuNiuMgr::GetInstance()->onUpdate();
             });
@@ -70,8 +70,14 @@ class Events
             return ;
         }
 
-        require_once __DIR__ . sprintf('/Network/%s.php',$message_data->{'module'});
-        eval(sprintf("%s::onMessage(\$client_id, \$message);",$message_data->{'module'}));
+        try {
+          require_once __DIR__ . sprintf('/Network/%s.php',$message_data->{'module'});
+          eval(sprintf("%s::onMessage(\$client_id, \$message);",$message_data->{'module'}));
+        }
+        catch(Exception $e)
+        {
+          echo 'error:' . $e->getMessage();
+        }
    }
    
    /**
@@ -80,7 +86,6 @@ class Events
     */
    public static function onClose($client_id) {
        // 向所有人发送 
-       // GateWay::sendToAll("$client_id logout");
       LoginMgr::GetInstance()->onClose($client_id);
       LobbyMgr::GetInstance()->onClose($client_id);
    }
