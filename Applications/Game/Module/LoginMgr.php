@@ -1,6 +1,8 @@
 <?php
 
 require_once __DIR__ . '/../Entity/EntityVo.php';
+require_once __DIR__ . '/../Module/RoleMgr.php';
+
 
 use \GatewayWorker\Lib\Gateway;
 
@@ -32,24 +34,14 @@ class LoginMgr
 
 		$json_obj['ret'] = 0;
 
-		$client = new EntityVo();
-		$client->nickname = "游客";
-		$client->level = 1;
-		$client->coin = 100;
-		$client->client_id = $client_id;
-		$this->_clientDic[$account] = $client;
-		$json_obj['data'] = $client->getData();
+		$role = RoleMgr::GetInstance()->createRole($client_id,$account,"游客",1000,100,1);
+		$RoleMgr::GetInstance()->getRoleDic()[$account] = $role;
+		$json_obj['data'] = $role->getData();
 		return $json_obj;
 	}
 
-	public function onClose($client_id)
+	public function getRoleByClientId($client_id)
 	{
-		foreach ($this->_clientDic as $account => $client) {
-			if($client && $client->client_id == $client_id)
-			{
-				$this->_clientDic[$account] = null;
-				break;
-			}
-		}
+		return $this->_clientDic[$client_id];
 	}
 }

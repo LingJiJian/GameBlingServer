@@ -3,9 +3,9 @@
 class GameConfig {
 
  	public static $gameDefs = array(
-		'NiuNiu'		=> array('id'=> 1,'limit'=>10),
-		'MJ_GD'		=> array('id'=> 2,'limit'=>4),
-		'PokerDZ'	=> array('id'=> 3,'limit'=>6)
+		'NiuNiu'	=> array('id'=> 1,'placeLimit'=>9,'roomLimit'=>100),
+		'MJ_GD'		=> array('id'=> 2,'placeLimit'=>4,'roomLimit'=>100),
+		'PokerDZ'	=> array('id'=> 3,'placeLimit'=>6,'roomLimit'=>100)
 	);
 
 	public static $gameStatus = array(

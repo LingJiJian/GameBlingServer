@@ -6,6 +6,7 @@ class MsgIds {
 	const Lobby_CreateRoom = 'rspCreateRoom';
 	const Lobby_JoinRoom = 'rspJoinRoom';
 	const Lobby_LeaveRoom = 'rspLeaveRoom';
+	const Lobby_PersonJoin = 'rspPersionJoin';
 
 	const NiuNiu_SetPos = 'rspNiuNiuSetPos';
 	const NiuNiu_Bet = 'rspNiuNiuBet';

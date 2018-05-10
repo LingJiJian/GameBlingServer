@@ -51,13 +51,15 @@ class NiuNiuMgr
 						$fsm->cards = get_pokers(52);
 						$room->status = 'prepare';
 						$fsm->nextst = time() + 5;
+						$fsm->betcards = array();
 
 						$json_obj = array();
 						$json_obj['ret'] = 0;
 						$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
 						$json_obj['data'] = array(
 							'status' => $room->status,
-							'endst' =>  $fsm->nextst
+							'endst' =>  $fsm->nextst,
+							'betcards' => $fsm->betcards
 						);
 						print_r('开始游戏');
 						Gateway::sendToGroup($roomid,json_encode($json_obj));
@@ -69,6 +71,7 @@ class NiuNiuMgr
 				if($fsm->nextst <= time()){
 					$room->status = 'deal';
 					$fsm->nextst = time() +5;
+					$fsm->betcards = $this->makeDealCard($fsm->cards,2,$roomid);
 
 					$json_obj = array();
 					$json_obj['ret'] = 0;
@@ -76,7 +79,7 @@ class NiuNiuMgr
 					$json_obj['data'] = array(
 						'status' => $room->status,
 						'endst' =>  $fsm->nextst,
-						'cards' => $this->makeDealCard($fsm->cards,2,$roomid)
+						'betcards' => $fsm->betcards
 					);
 					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
@@ -85,13 +88,15 @@ class NiuNiuMgr
 			{
 				$room->status = 'betting';
 				$fsm->nextst = time() + 5;
+				$fsm->betcards = array();
 
 				$json_obj = array();
 				$json_obj['ret'] = 0;
 				$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
 				$json_obj['data'] = array(
 					'status' => $room->status,
-					'endst' =>  $fsm->nextst
+					'endst' =>  $fsm->nextst,
+					'betcards' => $fsm->betcards
 				);
 				Gateway::sendToGroup($roomid,json_encode($json_obj));
 			}
@@ -100,6 +105,7 @@ class NiuNiuMgr
 				if($fsm->nextst <= time()){
 					$room->status = 'finish';
 					$fsm->nextst = time() + 5;
+					$fsm->betcards = $this->makeDealCard($fsm->cards,3,$roomid);
 
 					$json_obj = array();
 					$json_obj['ret'] = 0;
@@ -107,7 +113,7 @@ class NiuNiuMgr
 					$json_obj['data'] = array(
 						'status' => $room->status,
 						'endst' =>  $fsm->nextst,
-						'cards' => $this->makeDealCard($fsm->cards,3,$roomid)
+						'betcards' => $fsm->betcards
 					);
 					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
@@ -117,13 +123,15 @@ class NiuNiuMgr
 				if($fsm->nextst <= time()){
 					$room->status = 'idle';
 					$fsm->nextst = time() + 5;
+					$fsm->betcards = array();
 
 					$json_obj = array();
 					$json_obj['ret'] = 0;
 					$json_obj['msgid'] = MsgIds::NiuNiu_Update; 
 					$json_obj['data'] = array(
 						'status' => $room->status,
-						'endst' =>  $fsm->nextst
+						'endst' =>  $fsm->nextst,
+						'betcards' => $fsm->betcards
 					);
 					Gateway::sendToGroup($roomid,json_encode($json_obj));
 				}
@@ -141,9 +149,11 @@ class NiuNiuMgr
 				$fsm = $this->_fsmDic[$room->roomid];
 
 			}else{
-				
+				// 创建状态机
 				$fsm = new EntityVo();
 				$fsm->nextst = 0;
+				$fsm->betcards = array();
+				$fsm->betpools = array();
 				$this->_fsmDic[$room->roomid] = $fsm;
 			}
 		}else{
@@ -154,7 +164,11 @@ class NiuNiuMgr
 		}
 
 		$json_obj['ret'] = 0;
-		$json_obj['data'] = $fsm;
+		$json_obj['data'] = array(
+							'status' => $room->status,
+							'endst' =>  $fsm->nextst,
+							'betcards' => $fsm->betcards
+						);
 		$json_obj['msgid'] = MsgIds::NiuNiu_SyncGame;
 		Gateway::sendToGroup($room->roomid,json_encode($json_obj));
 	}
@@ -243,8 +257,6 @@ class NiuNiuMgr
 				'pos'		=>	$pos
 			);
 
-			// var_dump($room);
-
 			Gateway::sendToGroup($room->roomid,json_encode($json_obj));
 		}else{
 			$json_obj['ret'] = 1;
@@ -253,20 +265,14 @@ class NiuNiuMgr
 		}
 	}
 
+	//处理发牌
 	public function makeDealCard($pokers,$deal_num,$roomid)
 	{
 		$card_persions = array();
-		$room = LobbyMgr::GetInstance()->getRoomById($roomid);
-		if($room){
-			foreach ($room->places as $seatIdx => $persion) {
-				if($persion){
-					$cards = array();
-					for ($i=0; $i < $deal_num; $i++) { 
-						array_push($cards,array_shift($pokers));
-					}
-					$card_persions[$seatIdx] = $cards;
-				}
-			}
+		$cards = array();
+		for ($i=0; $i < $deal_num; $i++) { 
+			array_push($cards,array_shift($pokers));
+			$card_persions[$seatIdx] = $cards;
 		}
 		return $card_persions;
 	}
@@ -280,12 +286,27 @@ class NiuNiuMgr
 		}
 	}
 
-
 	public function makeSetBet($json_obj,$client_id,$betidx,$betnum)
 	{
+		$room = LobbyMgr::GetInstance()->getRoomByClientId($client_id);
+		if($room){
 
-		
-		// Gateway::sendToGroup($room->roomid,json_encode($json_obj));
+			$fsm = $this->_fsmDic[$room->roomid];
+			array_push($fsm->betpools[$betidx],$betnum);
+
+			$json_obj['ret'] = 0;
+			$json_obj['data'] = array(
+				'client_id' => $client_id,
+				'betidx' => $betidx,
+				'betnum' => $betnum
+			);
+			Gateway::sendToGroup($room->roomid,json_encode($json_obj));
+
+		}else{
+			$json_obj['ret'] = 1;
+			$json_obj['msg'] = '房间不存在!';
+			Gateway::sendToClient($client_id,json_encode($json_obj));
+		}
 	}
 }
 

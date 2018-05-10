@@ -3,6 +3,7 @@
 require_once __DIR__ . '/../Common/GameConfig.php';
 require_once __DIR__ . '/../Common/Util.php';
 require_once __DIR__ . '/../Entity/EntityVo.php';
+require_once __DIR__ . '/../Module/RoleMgr.php';
 
 use \GatewayWorker\Lib\Gateway;
 
@@ -33,7 +34,7 @@ class LobbyMgr
 
 		$roomid = $this->_createRoomId();
 
-		$placeLimit = GameConfig::$gameDefs[$param->{'gameid'}]['limit'];
+		$placeLimit = GameConfig::$gameDefs[$param->{'gameid'}]['placeLimit'];
 		$places = array();
 		for ($i=0; $i<$placeLimit; $i++) {
 			$places[$i + 1] = null;
@@ -43,7 +44,8 @@ class LobbyMgr
 		$persion->seatIdx 	= 1;
 		$persion->status 	= 'idle';
 		$persion->client_id	= $client_id;
-		$persion->pos 		= 'watcher';
+		$persion->pos 		= 'banker';
+		$persion->role = RoleMgr::GetInstance()->getRoleByClientId($client_id);
 		$places[1] = $persion;
 
 		$room = new EntityVo();
@@ -52,6 +54,7 @@ class LobbyMgr
 		$room->createtime =	time();
 		$room->places 	=	$places;
 		$room->placeLimit =	$placeLimit;
+		$room->roomLimit = GameConfig::$gameDefs[$param->{'gameid'}]['roomLimit'];
 		$room->status 	= 	'idle';
 		$this->_roomDic[$roomid] = $room;
 
@@ -65,26 +68,31 @@ class LobbyMgr
 		$ret = array();
 		if(array_key_exists($param->{'roomid'}, $this->_roomDic)){
 			$room = $this->_roomDic[$param->{'roomid'}];
-			$seatIdx = -1;
-			foreach ($room->places as $key => $persion) {
-				if($persion == null){
-					$seatIdx = $key;
-					break;
-				}
-			}
-
-			if($seatIdx == -1){
+			
+			if(count($room->places) >= $room->roomLimit){
 				return array(1,$ret,"房间满人了!");
 			}else{
 
-				// var_dump($room);
+				$seatIdx = -1;
+				foreach ($room->places as $key => $persion) {
+					if($persion == null){
+						$seatIdx = $key;
+						break;
+					}
+				}
+
+				$placeidx = $seatIdx;
+				if($seatIdx == -1){
+					$placeidx = count($room->places) + 1;
+				}
 
 				$persion = new EntityVo();
 				$persion->seatIdx =	$seatIdx;
 				$persion->status = 'idle';
 				$persion->client_id	= $client_id;
 				$persion->pos =	'watcher';
-				$room->places[$seatIdx] = $persion;
+				$persion->role = RoleMgr::GetInstance()->getRoleByClientId($client_id);
+				$room->places[$placeidx] = $persion;
 			}
 			return array(0,$room->getData(),'');
 		}else{
@@ -137,6 +145,20 @@ class LobbyMgr
 			foreach ($roomObj->places as $seatIdx => $persion) {
 				if($persion && $persion->client_id == $client_id){
 					return $roomObj;
+				}
+			}
+		}
+		return null;
+	}
+
+	public function getPersionByClientId($roomid,$client_id)
+	{
+		$room = $this->getRoomById($roomid);
+		if($room)
+		{
+			foreach ($room->places as $seatIdx => $persion) {
+				if($persion && $persion->client_id == $client_id){
+					return $persion;
 				}
 			}
 		}

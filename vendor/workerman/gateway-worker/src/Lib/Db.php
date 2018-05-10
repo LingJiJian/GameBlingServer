@@ -26,7 +26,14 @@ class Db
      *
      * @var array
      */
-    protected static $instance = array();
+    protected static $instance = array(
+        'host' => '127.0.0.1',
+        'port' => 3306,
+        'user' => 'lingjijian',
+        'password' => '123456',
+        'dbname' => 'bygame',
+        'charset' => 'utf8'
+    );
 
     /**
      * 获取实例

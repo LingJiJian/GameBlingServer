@@ -20,7 +20,7 @@
 //declare(ticks=1);
 
 require_once __DIR__ . '/Module/NiuNiuMgr.php';
-require_once __DIR__ . '/Module/LoginMgr.php';
+require_once __DIR__ . '/Module/RoleMgr.php';
 require_once __DIR__ . '/Module/LobbyMgr.php';
 
 use \GatewayWorker\Lib\Gateway;
@@ -86,7 +86,7 @@ class Events
     */
    public static function onClose($client_id) {
        // 向所有人发送 
-      LoginMgr::GetInstance()->onClose($client_id);
+      RoleMgr::GetInstance()->onClose($client_id);
       LobbyMgr::GetInstance()->onClose($client_id);
    }
 }
