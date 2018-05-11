@@ -2892,3 +2892,303 @@ Stack trace:
 2018-05-10 14:44:20 pid:17606 Workerman[start.php] start in DEBUG mode
 2018-05-10 14:45:22 pid:17606 Workerman[start.php] stopping ...
 2018-05-10 14:45:22 pid:17606 Workerman[start.php] has been stopped
+2018-05-11 10:51:56 pid:21465 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:52:15 pid:21466 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 38"
+2018-05-11 10:52:15 pid:21465 worker[GameBusinessWorker:21466] exit with status 65280
+2018-05-11 10:53:12 pid:21465 Workerman[start.php] stopping ...
+2018-05-11 10:53:12 pid:21465 Workerman[start.php] has been stopped
+2018-05-11 10:54:28 pid:21517 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:54:41 pid:21518 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 38"
+2018-05-11 10:54:41 pid:21517 worker[GameBusinessWorker:21518] exit with status 65280
+2018-05-11 10:54:49 pid:21517 Workerman[start.php] stopping ...
+2018-05-11 10:54:49 pid:21517 Workerman[start.php] has been stopped
+2018-05-11 10:55:09 pid:21543 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:55:18 pid:21544 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '[' in /home/by/workspace/GameBlingServer/Applications/Game/Module/LoginMgr.php on line 38"
+2018-05-11 10:55:18 pid:21543 worker[GameBusinessWorker:21544] exit with status 65280
+2018-05-11 10:55:21 pid:21543 Workerman[start.php] stopping ...
+2018-05-11 10:55:21 pid:21543 Workerman[start.php] has been stopped
+2018-05-11 10:55:38 pid:21561 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:55:57 pid:21561 Workerman[start.php] stopping ...
+2018-05-11 10:55:57 pid:21561 Workerman[start.php] has been stopped
+2018-05-11 10:58:44 pid:21606 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:58:49 pid:21606 Workerman[start.php] stopping ...
+2018-05-11 10:58:49 pid:21606 Workerman[start.php] has been stopped
+2018-05-11 10:59:07 pid:21628 Workerman[start.php] start in DEBUG mode
+2018-05-11 10:59:31 pid:21628 Workerman[start.php] stopping ...
+2018-05-11 10:59:31 pid:21628 Workerman[start.php] has been stopped
+2018-05-11 11:00:10 pid:21644 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:00:27 pid:21644 Workerman[start.php] stopping ...
+2018-05-11 11:00:27 pid:21644 Workerman[start.php] has been stopped
+2018-05-11 11:02:08 pid:21662 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:02:30 pid:21662 Workerman[start.php] stopping ...
+2018-05-11 11:02:30 pid:21662 Workerman[start.php] has been stopped
+2018-05-11 11:02:40 pid:21677 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:03:06 pid:21678 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected T_IF in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php on line 49"
+2018-05-11 11:03:06 pid:21677 worker[GameBusinessWorker:21678] exit with status 65280
+2018-05-11 11:03:24 pid:21677 Workerman[start.php] stopping ...
+2018-05-11 11:03:24 pid:21677 Workerman[start.php] has been stopped
+2018-05-11 11:08:00 pid:21809 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:08:14 pid:21810 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected ';', expecting ')' in /home/by/workspace/GameBlingServer/Applications/Game/Network/Lobby.php on line 72"
+2018-05-11 11:08:14 pid:21809 worker[GameBusinessWorker:21810] exit with status 65280
+2018-05-11 11:08:36 pid:21809 Workerman[start.php] stopping ...
+2018-05-11 11:08:36 pid:21809 Workerman[start.php] has been stopped
+2018-05-11 11:08:36 pid:21832 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:09:35 pid:21832 Workerman[start.php] stopping ...
+2018-05-11 11:09:35 pid:21832 Workerman[start.php] has been stopped
+2018-05-11 11:19:53 pid:21923 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:19:59 pid:21923 Workerman[start.php] stopping ...
+2018-05-11 11:19:59 pid:21923 Workerman[start.php] has been stopped
+2018-05-11 11:20:21 pid:21946 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:37:34 pid:21946 Workerman[start.php] stopping ...
+2018-05-11 11:37:34 pid:21946 Workerman[start.php] has been stopped
+2018-05-11 11:41:00 pid:22047 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:41:51 pid:22047 Workerman[start.php] stopping ...
+2018-05-11 11:41:51 pid:22047 Workerman[start.php] has been stopped
+2018-05-11 11:46:26 pid:22118 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:47:04 pid:22118 Workerman[start.php] stopping ...
+2018-05-11 11:47:04 pid:22118 Workerman[start.php] has been stopped
+2018-05-11 11:48:19 pid:22162 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:49:10 pid:22162 Workerman[start.php] stopping ...
+2018-05-11 11:49:10 pid:22162 Workerman[start.php] has been stopped
+2018-05-11 11:49:11 pid:22190 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:49:31 pid:22190 Workerman[start.php] stopping ...
+2018-05-11 11:49:31 pid:22190 Workerman[start.php] has been stopped
+2018-05-11 11:50:19 pid:22216 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:50:35 pid:22216 Workerman[start.php] stopping ...
+2018-05-11 11:50:35 pid:22216 Workerman[start.php] has been stopped
+2018-05-11 11:52:54 pid:22258 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:53:27 pid:22258 Workerman[start.php] stopping ...
+2018-05-11 11:53:27 pid:22258 Workerman[start.php] has been stopped
+2018-05-11 11:54:04 pid:22289 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:54:04 pid:22290 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22290] exit with status 65280
+2018-05-11 11:54:04 pid:22293 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22293] exit with status 65280
+2018-05-11 11:54:04 pid:22294 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22294] exit with status 65280
+2018-05-11 11:54:04 pid:22295 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22295] exit with status 65280
+2018-05-11 11:54:04 pid:22296 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22296] exit with status 65280
+2018-05-11 11:54:04 pid:22297 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22297] exit with status 65280
+2018-05-11 11:54:04 pid:22298 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22298] exit with status 65280
+2018-05-11 11:54:04 pid:22299 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22299] exit with status 65280
+2018-05-11 11:54:04 pid:22300 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22300] exit with status 65280
+2018-05-11 11:54:04 pid:22301 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22301] exit with status 65280
+2018-05-11 11:54:04 pid:22302 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22302] exit with status 65280
+2018-05-11 11:54:04 pid:22303 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22303] exit with status 65280
+2018-05-11 11:54:04 pid:22304 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22304] exit with status 65280
+2018-05-11 11:54:04 pid:22305 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22305] exit with status 65280
+2018-05-11 11:54:04 pid:22306 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22306] exit with status 65280
+2018-05-11 11:54:04 pid:22307 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22307] exit with status 65280
+2018-05-11 11:54:04 pid:22308 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22308] exit with status 65280
+2018-05-11 11:54:04 pid:22309 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22309] exit with status 65280
+2018-05-11 11:54:04 pid:22310 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22310] exit with status 65280
+2018-05-11 11:54:04 pid:22311 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22311] exit with status 65280
+2018-05-11 11:54:04 pid:22312 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22312] exit with status 65280
+2018-05-11 11:54:04 pid:22313 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22313] exit with status 65280
+2018-05-11 11:54:04 pid:22314 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22314] exit with status 65280
+2018-05-11 11:54:04 pid:22315 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22315] exit with status 65280
+2018-05-11 11:54:04 pid:22316 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22316] exit with status 65280
+2018-05-11 11:54:04 pid:22317 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22317] exit with status 65280
+2018-05-11 11:54:04 pid:22318 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22318] exit with status 65280
+2018-05-11 11:54:04 pid:22319 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22319] exit with status 65280
+2018-05-11 11:54:04 pid:22320 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22320] exit with status 65280
+2018-05-11 11:54:04 pid:22321 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22321] exit with status 65280
+2018-05-11 11:54:04 pid:22322 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22322] exit with status 65280
+2018-05-11 11:54:04 pid:22323 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22323] exit with status 65280
+2018-05-11 11:54:04 pid:22324 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22324] exit with status 65280
+2018-05-11 11:54:04 pid:22325 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22325] exit with status 65280
+2018-05-11 11:54:04 pid:22326 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22326] exit with status 65280
+2018-05-11 11:54:04 pid:22327 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22327] exit with status 65280
+2018-05-11 11:54:04 pid:22328 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22328] exit with status 65280
+2018-05-11 11:54:04 pid:22329 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22329] exit with status 65280
+2018-05-11 11:54:04 pid:22330 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22330] exit with status 65280
+2018-05-11 11:54:04 pid:22331 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22331] exit with status 65280
+2018-05-11 11:54:04 pid:22332 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:04 pid:22289 worker[GameBusinessWorker:22332] exit with status 65280
+2018-05-11 11:54:05 pid:22333 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22333] exit with status 65280
+2018-05-11 11:54:05 pid:22334 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22334] exit with status 65280
+2018-05-11 11:54:05 pid:22335 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22335] exit with status 65280
+2018-05-11 11:54:05 pid:22336 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22336] exit with status 65280
+2018-05-11 11:54:05 pid:22337 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22337] exit with status 65280
+2018-05-11 11:54:05 pid:22338 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22338] exit with status 65280
+2018-05-11 11:54:05 pid:22339 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22339] exit with status 65280
+2018-05-11 11:54:05 pid:22340 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22340] exit with status 65280
+2018-05-11 11:54:05 pid:22341 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22341] exit with status 65280
+2018-05-11 11:54:05 pid:22342 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22342] exit with status 65280
+2018-05-11 11:54:05 pid:22343 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22343] exit with status 65280
+2018-05-11 11:54:05 pid:22344 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22344] exit with status 65280
+2018-05-11 11:54:05 pid:22345 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22345] exit with status 65280
+2018-05-11 11:54:05 pid:22346 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22346] exit with status 65280
+2018-05-11 11:54:05 pid:22347 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22347] exit with status 65280
+2018-05-11 11:54:05 pid:22348 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22348] exit with status 65280
+2018-05-11 11:54:05 pid:22349 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22349] exit with status 65280
+2018-05-11 11:54:05 pid:22350 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22350] exit with status 65280
+2018-05-11 11:54:05 pid:22351 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22351] exit with status 65280
+2018-05-11 11:54:05 pid:22352 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22352] exit with status 65280
+2018-05-11 11:54:05 pid:22353 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22353] exit with status 65280
+2018-05-11 11:54:05 pid:22354 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22354] exit with status 65280
+2018-05-11 11:54:05 pid:22355 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22355] exit with status 65280
+2018-05-11 11:54:05 pid:22356 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22356] exit with status 65280
+2018-05-11 11:54:05 pid:22357 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22357] exit with status 65280
+2018-05-11 11:54:05 pid:22358 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22358] exit with status 65280
+2018-05-11 11:54:05 pid:22359 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22359] exit with status 65280
+2018-05-11 11:54:05 pid:22360 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22360] exit with status 65280
+2018-05-11 11:54:05 pid:22361 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22361] exit with status 65280
+2018-05-11 11:54:05 pid:22362 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22362] exit with status 65280
+2018-05-11 11:54:05 pid:22363 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22363] exit with status 65280
+2018-05-11 11:54:05 pid:22364 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22364] exit with status 65280
+2018-05-11 11:54:05 pid:22365 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22365] exit with status 65280
+2018-05-11 11:54:05 pid:22366 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22366] exit with status 65280
+2018-05-11 11:54:05 pid:22367 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22367] exit with status 65280
+2018-05-11 11:54:05 pid:22368 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22368] exit with status 65280
+2018-05-11 11:54:05 pid:22369 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22369] exit with status 65280
+2018-05-11 11:54:05 pid:22370 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22370] exit with status 65280
+2018-05-11 11:54:05 pid:22371 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22371] exit with status 65280
+2018-05-11 11:54:05 pid:22372 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22372] exit with status 65280
+2018-05-11 11:54:05 pid:22373 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22373] exit with status 65280
+2018-05-11 11:54:05 pid:22374 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22374] exit with status 65280
+2018-05-11 11:54:05 pid:22375 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22375] exit with status 65280
+2018-05-11 11:54:05 pid:22376 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22376] exit with status 65280
+2018-05-11 11:54:05 pid:22377 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22377] exit with status 65280
+2018-05-11 11:54:05 pid:22378 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22378] exit with status 65280
+2018-05-11 11:54:05 pid:22379 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22379] exit with status 65280
+2018-05-11 11:54:05 pid:22380 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22380] exit with status 65280
+2018-05-11 11:54:05 pid:22381 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22381] exit with status 65280
+2018-05-11 11:54:05 pid:22382 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22382] exit with status 65280
+2018-05-11 11:54:05 pid:22383 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22383] exit with status 65280
+2018-05-11 11:54:05 pid:22384 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22384] exit with status 65280
+2018-05-11 11:54:05 pid:22385 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22385] exit with status 65280
+2018-05-11 11:54:05 pid:22386 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22386] exit with status 65280
+2018-05-11 11:54:05 pid:22387 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22387] exit with status 65280
+2018-05-11 11:54:05 pid:22388 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22388] exit with status 65280
+2018-05-11 11:54:05 pid:22389 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22389] exit with status 65280
+2018-05-11 11:54:05 pid:22390 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22390] exit with status 65280
+2018-05-11 11:54:05 pid:22391 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22391] exit with status 65280
+2018-05-11 11:54:05 pid:22392 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22392] exit with status 65280
+2018-05-11 11:54:05 pid:22393 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22393] exit with status 65280
+2018-05-11 11:54:05 pid:22394 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22394] exit with status 65280
+2018-05-11 11:54:05 pid:22395 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22395] exit with status 65280
+2018-05-11 11:54:05 pid:22396 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22396] exit with status 65280
+2018-05-11 11:54:05 pid:22397 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22397] exit with status 65280
+2018-05-11 11:54:05 pid:22398 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22398] exit with status 65280
+2018-05-11 11:54:05 pid:22399 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22399] exit with status 65280
+2018-05-11 11:54:05 pid:22400 Worker process terminated with ERROR: E_PARSE "syntax error, unexpected '&' in /home/by/workspace/GameBlingServer/Applications/Game/Module/RoleMgr.php on line 45"
+2018-05-11 11:54:05 pid:22289 Workerman[start.php] stopping ...
+2018-05-11 11:54:05 pid:22289 worker[GameBusinessWorker:22400] exit with status 65280
+2018-05-11 11:54:05 pid:22289 Workerman[start.php] has been stopped
+2018-05-11 11:54:09 pid:22409 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:54:10 pid:22409 Workerman[start.php] stopping ...
+2018-05-11 11:54:10 pid:22409 Workerman[start.php] has been stopped
+2018-05-11 11:55:46 pid:22431 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:56:36 pid:22431 Workerman[start.php] stopping ...
+2018-05-11 11:56:36 pid:22431 Workerman[start.php] has been stopped
+2018-05-11 11:57:33 pid:22462 Workerman[start.php] start in DEBUG mode
+2018-05-11 11:58:24 pid:22462 Workerman[start.php] stopping ...
+2018-05-11 11:58:24 pid:22462 Workerman[start.php] has been stopped
+2018-05-11 14:14:23 pid:22934 Workerman[start.php] start in DEBUG mode
+2018-05-11 14:14:28 pid:22934 Workerman[start.php] stopping ...
+2018-05-11 14:14:28 pid:22934 Workerman[start.php] has been stopped

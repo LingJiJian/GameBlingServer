@@ -17,10 +17,12 @@ class Lobby
 		$json_obj['ret'] = 999;
 		$json_obj['msg'] = '';
 
+		$gameid = $message_data->{"param"}->{'gameid'};
+
 		$result = array(999,'');
 		if($msgid == MsgIds::Lobby_CreateRoom)
 		{
-			if(empty($message_data->{"param"}->{'gameid'})){
+			if(empty($gameid)){
 				$json_obj['ret'] = 1;
 				$json_obj['msg'] = "参数有误！";
 				Gateway::sendToCurrentClient(json_encode($json_obj));
@@ -32,21 +34,22 @@ class Lobby
 			$json_obj['ret'] = $result[0];
 			$json_obj['data'] = $result[1];
 
-			print_r('创建房间:' . $result[1]['roomid']);
+			echo '创建房间:' . $result[1]['roomid'] ."\n";
 
 			Gateway::sendToCurrentClient(json_encode($json_obj));
 
-			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
+			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$gameid);
         	eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
-        			$message_data->{"param"}->{'gameid'},
+        			$gameid,
         			$json_obj,
         			$client_id));
 		}
 		elseif($msgid == MsgIds::Lobby_JoinRoom)
 		{
-			$roomid = $message_data->{"param"}->{"roomid"}
 
-			if(empty($roomid) || empty($message_data->{"param"}->{'gameid'})){
+			$roomid = $message_data->{"param"}->{"roomid"};
+
+			if(empty($roomid) || empty($gameid)){
 				$json_obj['ret'] = 1;
 				$json_obj['msg'] = "参数有误！";
 				Gateway::sendToCurrentClient(json_encode($json_obj));
@@ -63,18 +66,19 @@ class Lobby
 			if($result[0] == 0){
 
 				$json_join = array();
+				$json_join['msgid'] = 'rspPersionJoin';
 				$json_join['ret'] = 0;
 				$json_join['data'] = array(
-					'gameid'=>$message_data->{"param"}->{'gameid'},
-					'persion'=>LobbyMgr::GetInstance()->getPersionByClientId($roomid,$client_id)->getData();
+					'gameid'=>$gameid,
+					'persion'=>LobbyMgr::GetInstance()->getPersionByClientId($roomid,$client_id)->getData()
 				);
 				
 				Gateway::sendToGroup($roomid,json_encode($json_join));
 			}
 
-			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$message_data->{"param"}->{'gameid'});
+			require_once __DIR__ . sprintf('/../Module/%sMgr.php',$gameid);
         	eval(sprintf("%sMgr::GetInstance()->makeSyncGame(\$json_obj,\$client_id);",
-        			$message_data->{"param"}->{'gameid'}));
+        			$gameid));
 		}
 		elseif($msgid == MsgIds::Lobby_LeaveRoom)
 		{

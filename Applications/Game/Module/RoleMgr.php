@@ -28,15 +28,19 @@ class RoleMgr
 	public function createRole($client_id,$account,$nickname,$coin,$gold,$level)
 	{
 		$role = new EntityVo();
+		$role->id = $this->_roleIdx;
 		$role->nickname = $nickname;
 		$role->level = $level;
 		$role->coin = $coin;
 		$role->gold = $gold;
 		$role->client_id = $client_id;
+		$role->exp = 0;
+		$role->vipexp = 0;
+		$this->_roleIdx++;
 		return $role;
 	}
 
-	public function getRoleDic()
+	public function &getRoleDic()
 	{
 		return $this->_roleDic;
 	}

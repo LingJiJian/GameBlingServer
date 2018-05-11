@@ -36,7 +36,7 @@ class Events
     public static function onWorkerStart($worker){
         if($worker->id === 0){
 
-            echo "初始化游戏";
+            echo "----------初始化游戏----------\n";
             Timer::add(1,function(){
                 NiuNiuMgr::GetInstance()->onUpdate();
             });
@@ -88,5 +88,6 @@ class Events
        // 向所有人发送 
       RoleMgr::GetInstance()->onClose($client_id);
       LobbyMgr::GetInstance()->onClose($client_id);
+      NiuNiuMgr::GetInstance()->onClose($client_id);
    }
 }

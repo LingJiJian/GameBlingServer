@@ -49,10 +49,4 @@ class EntityVo {
         $this->_getData($result,$this->data);
         return $result;
     }
-
-    public function insertArray(&$arr,$ikey,$ivalue)
-    {
-        $arr[$ikey] = $ivalue;
-        return $arr;
-    }
 }

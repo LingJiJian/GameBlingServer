@@ -61,7 +61,7 @@ class NiuNiuMgr
 							'endst' =>  $fsm->nextst,
 							'betcards' => $fsm->betcards
 						);
-						print_r('开始游戏');
+						echo "开始游戏\n";
 						Gateway::sendToGroup($roomid,json_encode($json_obj));
 					}
 				}
@@ -270,9 +270,11 @@ class NiuNiuMgr
 	{
 		$card_persions = array();
 		$cards = array();
-		for ($i=0; $i < $deal_num; $i++) { 
-			array_push($cards,array_shift($pokers));
-			$card_persions[$seatIdx] = $cards;
+		for ($areaidx=1; $areaidx <= 5; $areaidx++) { 
+			for ($i=0; $i < $deal_num; $i++) { 
+				array_push($cards,array_shift($pokers));
+				$card_persions[$areaidx] = $cards;
+			}
 		}
 		return $card_persions;
 	}
@@ -307,6 +309,18 @@ class NiuNiuMgr
 			$json_obj['msg'] = '房间不存在!';
 			Gateway::sendToClient($client_id,json_encode($json_obj));
 		}
+	}
+
+	public function onClose($client_id)
+	{
+		foreach ($this->_fsmDic as $roomid => $fsm) {
+			$room = LobbyMgr::GetInstance()->getRoomById($roomid);
+			if($room == null)
+			{
+				$this->_fsmDic[$roomid] = null;
+			}
+		}
+
 	}
 }
 

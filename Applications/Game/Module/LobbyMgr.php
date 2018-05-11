@@ -32,7 +32,7 @@ class LobbyMgr
 
 	public function makeCreateRoom($param,$client_id){
 
-		$roomid = $this->_createRoomId();
+		$roomid = &$this->_createRoomId();
 
 		$placeLimit = GameConfig::$gameDefs[$param->{'gameid'}]['placeLimit'];
 		$places = array();
@@ -116,9 +116,12 @@ class LobbyMgr
 		foreach ($this->_roomDic as $roomId => $roomObj) {
 			foreach ($roomObj->places as $seatIdx => $persion) {
 				if($persion && $persion->client_id == $client_id){
-					$roomObj->places[$seatIdx] = null;
+					
 					$ret['roomid'] = $roomId;
 					$ret['gameid'] = $roomObj->gameid;
+					$ret['persion'] = $persion->getData();
+
+					$roomObj->places[$seatIdx] = null;
 					return array(0,$ret);
 				}
 			}
@@ -127,7 +130,7 @@ class LobbyMgr
 		return array(1,$ret);
 	}
 
-	private function _createRoomId()
+	private function &_createRoomId()
 	{
 		$this->_roomIdx++;
 		return $this->_roomIdx;
@@ -167,7 +170,6 @@ class LobbyMgr
 
 	public function onClose($client_id)
 	{
-
 		foreach ($this->_roomDic as $roomId => $room) {
 			foreach ($room->places as $seatIdx => $persion) {
 				if($persion && $persion->client_id == $client_id){
