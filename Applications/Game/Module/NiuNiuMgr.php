@@ -29,6 +29,9 @@ class NiuNiuMgr
 		foreach ($this->_fsmDic  as $roomid => $fsm) {
 
 			$room = LobbyMgr::GetInstance()->getRoomById($roomid);
+			if(!$room){
+				continue;
+			}
 
 			if($room->status == 'idle'){
 				
@@ -154,6 +157,9 @@ class NiuNiuMgr
 				$fsm->nextst = 0;
 				$fsm->betcards = array();
 				$fsm->betpools = array();
+				for ($i=1; $i <= 4; $i++) { 
+					$fsm->betpools[$i] = array();
+				}
 				$this->_fsmDic[$room->roomid] = $fsm;
 			}
 		}else{
@@ -266,15 +272,15 @@ class NiuNiuMgr
 	}
 
 	//处理发牌
-	public function makeDealCard($pokers,$deal_num,$roomid)
+	public function makeDealCard(&$pokers,$deal_num,$roomid)
 	{
 		$card_persions = array();
-		$cards = array();
 		for ($areaidx=1; $areaidx <= 5; $areaidx++) { 
+			$cards = array();
 			for ($i=0; $i < $deal_num; $i++) { 
 				array_push($cards,array_shift($pokers));
-				$card_persions[$areaidx] = $cards;
 			}
+			$card_persions[$areaidx] = $cards;
 		}
 		return $card_persions;
 	}

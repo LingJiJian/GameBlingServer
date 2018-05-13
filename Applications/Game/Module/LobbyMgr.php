@@ -93,6 +93,8 @@ class LobbyMgr
 				$persion->pos =	'watcher';
 				$persion->role = RoleMgr::GetInstance()->getRoleByClientId($client_id);
 				$room->places[$placeidx] = $persion;
+
+				Gateway::joinGroup($client_id,$param->{'roomid'});
 			}
 			return array(0,$room->getData(),'');
 		}else{

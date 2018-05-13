@@ -3192,3 +3192,245 @@ Stack trace:
 2018-05-11 14:14:23 pid:22934 Workerman[start.php] start in DEBUG mode
 2018-05-11 14:14:28 pid:22934 Workerman[start.php] stopping ...
 2018-05-11 14:14:28 pid:22934 Workerman[start.php] has been stopped
+2018-05-12 00:18:07 pid:2408 Workerman[start.php] start in DEBUG mode
+2018-05-12 00:18:13 pid:2408 Workerman[start.php] stopping ...
+2018-05-12 00:18:13 pid:2408 Workerman[start.php] has been stopped
+2018-05-12 08:38:05 pid:2936 Workerman[start.php] start in DEBUG mode
+2018-05-12 08:38:24 pid:2936 Workerman[start.php] stopping ...
+2018-05-12 08:38:24 pid:2936 Workerman[start.php] has been stopped
+2018-05-12 08:38:44 pid:2944 Workerman[start.php] start in DEBUG mode
+2018-05-12 08:39:58 pid:2944 Workerman[start.php] stopping ...
+2018-05-12 08:39:58 pid:2944 Workerman[start.php] has been stopped
+2018-05-12 08:40:17 pid:3005 Workerman[start.php] start in DEBUG mode
+2018-05-12 08:42:00 pid:3005 Workerman[start.php] stopping ...
+2018-05-12 08:42:02 pid:3005 Workerman[start.php] has been stopped
+2018-05-12 09:01:32 pid:34316 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:03:41 pid:34316 Workerman[start.php] stopping ...
+2018-05-12 09:03:41 pid:34316 Workerman[start.php] has been stopped
+2018-05-12 09:05:49 pid:34347 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:07:37 pid:34347 Workerman[start.php] stopping ...
+2018-05-12 09:07:37 pid:34347 Workerman[start.php] has been stopped
+2018-05-12 09:10:12 pid:34431 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:21:13 pid:34431 Workerman[start.php] stopping ...
+2018-05-12 09:21:13 pid:34431 Workerman[start.php] has been stopped
+2018-05-12 09:21:13 pid:34470 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:21:39 pid:34470 Workerman[start.php] stopping ...
+2018-05-12 09:21:39 pid:34470 Workerman[start.php] has been stopped
+2018-05-12 09:22:41 pid:34706 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:23:26 pid:34706 Workerman[start.php] stopping ...
+2018-05-12 09:23:26 pid:34706 Workerman[start.php] has been stopped
+2018-05-12 09:23:27 pid:34721 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:32:15 pid:34721 Workerman[start.php] stopping ...
+2018-05-12 09:32:15 pid:34721 Workerman[start.php] has been stopped
+2018-05-12 09:33:25 pid:34765 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:33:29 pid:34765 Workerman[start.php] stopping ...
+2018-05-12 09:33:29 pid:34765 Workerman[start.php] has been stopped
+2018-05-12 09:38:55 pid:34822 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:40:34 pid:34822 Workerman[start.php] stopping ...
+2018-05-12 09:40:34 pid:34824 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 09:40:34 pid:34824 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 09:40:34 pid:34822 Workerman[start.php] has been stopped
+2018-05-12 09:55:55 pid:34927 Workerman[start.php] start in DEBUG mode
+2018-05-12 09:57:37 pid:34927 Workerman[start.php] stopping ...
+2018-05-12 09:57:37 pid:34927 Workerman[start.php] has been stopped
+2018-05-12 10:04:39 pid:34994 Workerman[start.php] start in DEBUG mode
+2018-05-12 10:05:34 pid:34994 Workerman[start.php] stopping ...
+2018-05-12 10:05:34 pid:34994 Workerman[start.php] has been stopped
+2018-05-12 10:10:48 pid:35064 Workerman[start.php] start in DEBUG mode
+2018-05-12 10:11:38 pid:35064 Workerman[start.php] stopping ...
+2018-05-12 10:11:38 pid:35064 Workerman[start.php] has been stopped
+2018-05-12 10:13:59 pid:35115 Workerman[start.php] start in DEBUG mode
+2018-05-12 10:13:59 pid:35116 ParseError: syntax error, unexpected '&' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:77
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#11 /home/lingjijian/workspace/GameblingServer/start.php(40): Workerman\Worker::runAll()
+#12 {main}
+2018-05-12 10:14:00 pid:35116 Worker process terminated
+2018-05-12 10:14:00 pid:35115 worker[GameBusinessWorker:35116] exit with status 64000
+2018-05-12 10:14:00 pid:35119 ParseError: syntax error, unexpected '&' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Module/NiuNiuMgr.php:77
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Autoloader.php(60): require_once()
+#1 [internal function]: Workerman\Autoloader::loadByNamespace('Events')
+#2 [internal function]: spl_autoload_call('Events')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(210): is_callable('Events::onWorke...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2115): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#6 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#13 /home/lingjijian/workspace/GameblingServer/start.php(40): Workerman\Worker::runAll()
+#14 {main}
+2018-05-12 10:14:00 pid:35115 Workerman[start.php] stopping ...
+2018-05-12 10:14:00 pid:35119 Worker process terminated
+2018-05-12 10:14:00 pid:35115 worker[GameBusinessWorker:35119] exit with status 64000
+2018-05-12 10:14:00 pid:35115 Workerman[start.php] has been stopped
+2018-05-12 10:15:13 pid:35143 Workerman[start.php] start in DEBUG mode
+2018-05-12 10:21:47 pid:35143 Workerman[start.php] stopping ...
+2018-05-12 10:21:47 pid:35143 Workerman[start.php] has been stopped
+2018-05-12 11:36:57 pid:35505 Workerman[start.php] start in DEBUG mode
+2018-05-12 11:38:17 pid:35506 Error: Undefined class constant 'rspNiuNiuBet' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/NiuNiu.php:29
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75) : eval()'d code(1): NiuNiu::onMessage('7f0000010b54000...', '{"param":100,"m...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75): eval()
+#2 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":100,"m...')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":100,"m...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(466): Workerman\Worker::forkWorkers()
+#14 /home/lingjijian/workspace/GameblingServer/start.php(40): Workerman\Worker::runAll()
+#15 {main}
+2018-05-12 11:38:17 pid:35506 Worker process terminated
+2018-05-12 11:38:17 pid:35505 worker[GameBusinessWorker:35506] exit with status 64000
+2018-05-12 11:38:18 pid:35520 Error: Undefined class constant 'rspNiuNiuBet' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/NiuNiu.php:29
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75) : eval()'d code(1): NiuNiu::onMessage('7f0000010b54000...', '{"param":100,"m...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75): eval()
+#2 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":100,"m...')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":100,"m...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #49)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#16 /home/lingjijian/workspace/GameblingServer/start.php(40): Workerman\Worker::runAll()
+#17 {main}
+2018-05-12 11:38:18 pid:35520 Worker process terminated
+2018-05-12 11:38:18 pid:35505 worker[GameBusinessWorker:35520] exit with status 64000
+2018-05-12 11:38:21 pid:35521 Error: Undefined class constant 'rspNiuNiuBet' in /home/lingjijian/workspace/GameblingServer/Applications/Game/Network/NiuNiu.php:29
+Stack trace:
+#0 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75) : eval()'d code(1): NiuNiu::onMessage('7f0000010b54000...', '{"param":5000,"...')
+#1 /home/lingjijian/workspace/GameblingServer/Applications/Game/Events.php(75): eval()
+#2 [internal function]: Events::onMessage('7f0000010b54000...', '{"param":5000,"...')
+#3 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(384): call_user_func('Events::onMessa...', '7f0000010b54000...', '{"param":5000,"...')
+#4 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#5 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Connection/TcpConnection.php(639): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #50)
+#7 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#8 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(2130): Workerman\Events\Select->loop()
+#9 /home/lingjijian/workspace/GameblingServer/vendor/workerman/gateway-worker/src/BusinessWorker.php(190): Workerman\Worker->run()
+#10 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1323): GatewayWorker\BusinessWorker->run()
+#11 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1156): Workerman\Worker::forkOneWorkerForLinux(Object(GatewayWorker\BusinessWorker))
+#12 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1130): Workerman\Worker::forkWorkersForLinux()
+#13 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1455): Workerman\Worker::forkWorkers()
+#14 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(1404): Workerman\Worker::monitorWorkersForLinux()
+#15 /home/lingjijian/workspace/GameblingServer/vendor/workerman/workerman/Worker.php(468): Workerman\Worker::monitorWorkers()
+#16 /home/lingjijian/workspace/GameblingServer/start.php(40): Workerman\Worker::runAll()
+#17 {main}
+2018-05-12 11:38:21 pid:35521 Worker process terminated
+2018-05-12 11:38:21 pid:35505 worker[GameBusinessWorker:35521] exit with status 64000
+2018-05-12 11:38:32 pid:35505 Workerman[start.php] stopping ...
+2018-05-12 11:38:32 pid:35505 Workerman[start.php] has been stopped
+2018-05-12 11:39:31 pid:35584 Workerman[start.php] start in DEBUG mode
+2018-05-12 11:43:39 pid:35584 Workerman[start.php] stopping ...
+2018-05-12 11:43:39 pid:35584 Workerman[start.php] has been stopped
+2018-05-12 11:44:29 pid:35619 Workerman[start.php] start in DEBUG mode
+2018-05-12 11:48:52 pid:35619 Workerman[start.php] stopping ...
+2018-05-12 11:48:52 pid:35619 Workerman[start.php] has been stopped
+2018-05-12 12:06:58 pid:35704 Workerman[start.php] start in DEBUG mode
+2018-05-12 12:07:54 pid:35704 Workerman[start.php] stopping ...
+2018-05-12 12:07:54 pid:35704 Workerman[start.php] has been stopped
+2018-05-12 12:12:58 pid:35804 Workerman[start.php] start in DEBUG mode
+2018-05-12 12:13:49 pid:35804 Workerman[start.php] stopping ...
+2018-05-12 12:13:49 pid:35806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 12:13:49 pid:35806 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 12:13:49 pid:35804 Workerman[start.php] has been stopped
+2018-05-12 12:16:51 pid:35827 Workerman[start.php] start in DEBUG mode
+2018-05-12 12:18:25 pid:35827 Workerman[start.php] stopping ...
+2018-05-12 12:18:25 pid:35827 Workerman[start.php] has been stopped
+2018-05-12 12:20:58 pid:35853 Workerman[start.php] start in DEBUG mode
+2018-05-12 12:23:47 pid:35853 Workerman[start.php] stopping ...
+2018-05-12 12:23:47 pid:35853 Workerman[start.php] has been stopped
+2018-05-12 12:24:37 pid:35889 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:16:31 pid:35889 Workerman[start.php] stopping ...
+2018-05-12 13:16:31 pid:35889 Workerman[start.php] has been stopped
+2018-05-12 13:23:46 pid:36164 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:24:54 pid:36164 Workerman[start.php] stopping ...
+2018-05-12 13:24:54 pid:36164 Workerman[start.php] has been stopped
+2018-05-12 13:27:53 pid:36187 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:32:31 pid:36187 Workerman[start.php] stopping ...
+2018-05-12 13:32:32 pid:36187 Workerman[start.php] has been stopped
+2018-05-12 13:32:36 pid:36223 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:34:01 pid:36223 Workerman[start.php] stopping ...
+2018-05-12 13:34:01 pid:36223 Workerman[start.php] has been stopped
+2018-05-12 13:36:37 pid:36246 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:37:54 pid:36246 Workerman[start.php] stopping ...
+2018-05-12 13:37:54 pid:36246 Workerman[start.php] has been stopped
+2018-05-12 13:37:55 pid:36263 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:38:38 pid:36263 Workerman[start.php] stopping ...
+2018-05-12 13:38:38 pid:36263 Workerman[start.php] has been stopped
+2018-05-12 13:41:42 pid:36326 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:47:53 pid:36326 Workerman[start.php] stopping ...
+2018-05-12 13:47:53 pid:36326 Workerman[start.php] has been stopped
+2018-05-12 13:47:55 pid:36368 Workerman[start.php] start in DEBUG mode
+2018-05-12 13:48:27 pid:36368 Workerman[start.php] stopping ...
+2018-05-12 13:48:27 pid:36368 Workerman[start.php] has been stopped
+2018-05-12 15:49:27 pid:36928 Workerman[start.php] start in DEBUG mode
+2018-05-12 15:53:38 pid:36928 Workerman[start.php] stopping ...
+2018-05-12 15:53:38 pid:36928 Workerman[start.php] has been stopped
+2018-05-12 15:53:38 pid:36950 Workerman[start.php] start in DEBUG mode
+2018-05-12 15:53:57 pid:36950 Workerman[start.php] stopping ...
+2018-05-12 15:53:57 pid:36950 Workerman[start.php] has been stopped
+2018-05-12 15:55:10 pid:36969 Workerman[start.php] start in DEBUG mode
+2018-05-12 15:55:23 pid:36969 Workerman[start.php] stopping ...
+2018-05-12 15:55:23 pid:36969 Workerman[start.php] has been stopped
+2018-05-12 15:56:26 pid:36986 Workerman[start.php] start in DEBUG mode
+2018-05-12 15:56:42 pid:36986 Workerman[start.php] stopping ...
+2018-05-12 15:56:42 pid:36986 Workerman[start.php] has been stopped
+2018-05-12 15:57:44 pid:37003 Workerman[start.php] start in DEBUG mode
+2018-05-12 15:58:02 pid:37003 Workerman[start.php] stopping ...
+2018-05-12 15:58:02 pid:37003 Workerman[start.php] has been stopped
+2018-05-12 16:00:02 pid:37036 Workerman[start.php] start in DEBUG mode
+2018-05-12 16:06:03 pid:37036 Workerman[start.php] stopping ...
+2018-05-12 16:06:03 pid:37036 Workerman[start.php] has been stopped
+2018-05-12 16:06:05 pid:37065 Workerman[start.php] start in DEBUG mode
+2018-05-12 16:07:21 pid:37065 Workerman[start.php] stopping ...
+2018-05-12 16:07:21 pid:37067 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 16:07:21 pid:37067 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 16:07:21 pid:37065 Workerman[start.php] has been stopped
+2018-05-12 16:30:44 pid:37199 Workerman[start.php] start in DEBUG mode
+2018-05-12 16:32:20 pid:37199 Workerman[start.php] stopping ...
+2018-05-12 16:32:20 pid:37199 Workerman[start.php] has been stopped
+2018-05-12 16:32:21 pid:37219 Workerman[start.php] start in DEBUG mode
+2018-05-12 16:37:20 pid:37219 Workerman[start.php] stopping ...
+2018-05-12 16:37:21 pid:37219 Workerman[start.php] has been stopped
+2018-05-12 16:58:23 pid:37356 Workerman[start.php] start in DEBUG mode
+2018-05-12 17:00:12 pid:37356 Workerman[start.php] stopping ...
+2018-05-12 17:00:12 pid:37356 Workerman[start.php] has been stopped
+2018-05-12 17:00:12 pid:37373 Workerman[start.php] start in DEBUG mode
+2018-05-12 17:00:48 pid:37373 Workerman[start.php] stopping ...
+2018-05-12 17:00:48 pid:37373 Workerman[start.php] has been stopped
+2018-05-12 17:01:21 pid:37390 Workerman[start.php] start in DEBUG mode
+2018-05-12 17:02:30 pid:37390 Workerman[start.php] stopping ...
+2018-05-12 17:02:30 pid:37392 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2018-05-12 17:02:30 pid:37390 Workerman[start.php] has been stopped
+2018-05-12 17:23:45 pid:37523 Workerman[start.php] start in DEBUG mode
+2018-05-12 17:24:54 pid:37523 Workerman[start.php] stopping ...
+2018-05-12 17:24:54 pid:37523 Workerman[start.php] has been stopped

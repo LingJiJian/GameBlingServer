@@ -26,7 +26,7 @@ class NiuNiu
 				$message_data->{"param"}->{'pos'},
 				$message_data->{'param'}->{'target_seatidx'});
 		}
-		elseif($MsgIds == MsgIds::rspNiuNiuBet)
+		elseif($msgid == MsgIds::NiuNiu_Bet)
 		{
 			NiuNiuMgr::GetInstance()->makeSetBet(
 				$json_obj,
